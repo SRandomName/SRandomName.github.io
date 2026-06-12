@@ -1,17 +1,10 @@
 ﻿{
-    "name": "",
-    "formats": "",
-    "image_type": "png",
-    "draft_structure": "play booster",
-    "unpreviewed": "card back",
-    "image_name": "position",
-    "v_mana": "",
     "cards": [
         {
             "card_name": "CB05 Unyielding Wight",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Skeleton Soldier",
+            "type": "Creature \u2013 Skeleton Soldier",
             "number": 63,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -26,13 +19,15 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR06",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Orc Warrior",
+            "type": "Creature \u2013 Orc Warrior",
             "number": 93,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -47,13 +42,15 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW02",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Archer",
+            "type": "Creature \u2013 Human Archer",
             "number": 2,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -68,13 +65,15 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW01",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Elk",
+            "type": "Creature \u2013 Elk",
             "number": 1,
             "color_identity": "W",
             "cost": "{W}",
@@ -89,13 +88,15 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW07",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Elk",
+            "type": "Creature \u2013 Elk",
             "number": 7,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -110,13 +111,15 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW03 Champion of the Pride",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Cat",
+            "type": "Creature \u2013 Cat",
             "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -131,13 +134,15 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW06 Unwavering Swordmaster",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Orc Soldier",
+            "type": "Creature \u2013 Orc Soldier",
             "number": 6,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -152,13 +157,15 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU01 Crypt Delver",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 30,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -173,13 +180,15 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW05 Saddled Griffin",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Griffin",
+            "type": "Creature \u2013 Griffin",
             "number": 5,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -194,13 +203,15 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW09",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Dwarf Warrior",
+            "type": "Creature \u2013 Dwarf Warrior",
             "number": 9,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -215,13 +226,15 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW08",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Scout",
+            "type": "Creature \u2013 Human Scout",
             "number": 8,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -236,13 +249,15 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW10",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Ogre Soldier",
+            "type": "Creature \u2013 Ogre Soldier",
             "number": 10,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -257,13 +272,15 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW11",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Cat Angel",
+            "type": "Creature \u2013 Cat Angel",
             "number": 11,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
@@ -278,7 +295,9 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW14 Heroic Resilience",
@@ -299,13 +318,15 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW13 Quiescence",
             "color": "W",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 13,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -320,7 +341,9 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW12 Lose Hope",
@@ -341,7 +364,9 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW15 Left Forgotten",
@@ -362,13 +387,15 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU02 Singing Skeleton",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Skeleton Bard",
+            "type": "Creature \u2013 Skeleton Bard",
             "number": 31,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -383,13 +410,15 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU05",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Skeleton Warlock",
+            "type": "Creature \u2013 Skeleton Warlock",
             "number": 34,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -404,13 +433,15 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU04 Carcass Collecter",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Bird",
+            "type": "Creature \u2013 Demon Bird",
             "number": 33,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -425,13 +456,15 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CW04",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Zombie",
+            "type": "Creature \u2013 Zombie",
             "number": 4,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -446,13 +479,15 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU03",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 32,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -467,13 +502,15 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU06 Vagrant Journeymage",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Ogre Wizard",
+            "type": "Creature \u2013 Ogre Wizard",
             "number": 35,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -488,13 +525,15 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU07 Enyin Drakeraider",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Elf Warrior",
+            "type": "Creature \u2013 Elf Warrior",
             "number": 36,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -509,13 +548,15 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU08",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Crab",
+            "type": "Creature \u2013 Demon Crab",
             "number": 37,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
@@ -530,7 +571,9 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU10",
@@ -551,7 +594,9 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU12",
@@ -572,7 +617,9 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU13 Spiritual Projection",
@@ -593,7 +640,9 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU09 Spellbubble",
@@ -614,7 +663,9 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU14 Hold Firm",
@@ -635,13 +686,15 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB01 Rotting Sentry",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Zombie Soldier",
+            "type": "Creature \u2013 Zombie Soldier",
             "number": 59,
             "color_identity": "B",
             "cost": "{B}",
@@ -656,13 +709,15 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB04",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 62,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -677,13 +732,15 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB07",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Skeleton Soldier",
+            "type": "Creature \u2013 Skeleton Soldier",
             "number": 65,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -698,13 +755,15 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB03",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 61,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -719,13 +778,15 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB02",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Druid",
+            "type": "Creature \u2013 Human Druid",
             "number": 60,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -740,13 +801,15 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB06",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Dog",
+            "type": "Creature \u2013 Demon Dog",
             "number": 64,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -761,13 +824,15 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB08",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 66,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -782,13 +847,15 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB09",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 67,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
@@ -803,7 +870,9 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB14 Brutal Downfall",
@@ -824,7 +893,9 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB15 Death Wind",
@@ -845,7 +916,9 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB13",
@@ -866,7 +939,9 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB10 Curse of Years",
@@ -887,7 +962,9 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB12",
@@ -908,7 +985,9 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CB11 Rotting Finality",
@@ -929,13 +1008,15 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR05 Dashing Blazeblade",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Elemental Warrior",
+            "type": "Creature \u2013 Elemental Warrior",
             "number": 92,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -950,13 +1031,15 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR02",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 89,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -971,13 +1054,15 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR01 Ember Wight",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Skeleton Elemental",
+            "type": "Creature \u2013 Skeleton Elemental",
             "number": 88,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -992,13 +1077,15 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR07 Magma Spitter",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Elemental Frog",
+            "type": "Creature \u2013 Elemental Frog",
             "number": 94,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -1013,13 +1100,15 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR09",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Giant Skeleton Elemental",
+            "type": "Creature \u2013 Giant Skeleton Elemental",
             "number": 96,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
@@ -1034,7 +1123,9 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR15 Searing Effigy",
@@ -1055,7 +1146,9 @@
             "alias": "",
             "position": "49",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR14 Molten Insides",
@@ -1076,7 +1169,9 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR13 Break Blades",
@@ -1097,7 +1192,9 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR12 Cursed Knowledge",
@@ -1118,7 +1215,9 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR11",
@@ -1139,7 +1238,9 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR10",
@@ -1160,13 +1261,15 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG01 Dedicated Druid",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Druid",
+            "type": "Creature \u2013 Human Druid",
             "number": 117,
             "color_identity": "G",
             "cost": "{G}",
@@ -1181,13 +1284,15 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG05",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Snake",
+            "type": "Creature \u2013 Snake",
             "number": 121,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1202,13 +1307,15 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG03",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Druid",
+            "type": "Creature \u2013 Human Druid",
             "number": 119,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1223,13 +1330,15 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG04",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Spider",
+            "type": "Creature \u2013 Demon Spider",
             "number": 120,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1244,13 +1353,15 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG07 Give someting",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 123,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -1265,13 +1376,15 @@
             "alias": "",
             "position": "59",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG06",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Orc Warrior",
+            "type": "Creature \u2013 Orc Warrior",
             "number": 122,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1286,13 +1399,15 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG02",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 118,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1307,13 +1422,15 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG09",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 125,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
@@ -1328,13 +1445,15 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG08",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 124,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -1349,13 +1468,15 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG10",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Hydra",
+            "type": "Creature \u2013 Hydra",
             "number": 126,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -1370,7 +1491,9 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG11 Vicious Strength",
@@ -1391,7 +1514,9 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG12 Feast",
@@ -1412,7 +1537,9 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG13 Return to Nature",
@@ -1422,7 +1549,7 @@
             "number": 129,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Choose one \u2014\n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.\n\u2022 Exile target card from a graveyard.",
+            "rules_text": "Choose one \u2013\n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.\n\u2022 Exile target card from a graveyard.",
             "flavor_text": "[i]In less than two decades the giants were reduced to but a memory.[/i]",
             "pt": "",
             "special_text": "",
@@ -1433,13 +1560,15 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR04",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton Elemental",
+            "type": "Creature \u2013 Skeleton Elemental",
             "number": 106,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -1454,13 +1583,15 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR03 Scoria Acolyte",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Elemental Sorcerer",
+            "type": "Creature \u2013 Elemental Sorcerer",
             "number": 90,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1475,13 +1606,15 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR08 Roiling Lava",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Elemental",
+            "type": "Creature \u2013 Elemental",
             "number": 95,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -1496,7 +1629,9 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG14 Demon's Harvest",
@@ -1517,13 +1652,15 @@
             "alias": "",
             "position": "71",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CA06 Forgotten Scroll",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2014 Scroll",
+            "type": "Artifact \u2013 Scroll",
             "number": 170,
             "color_identity": "C",
             "cost": "{2}",
@@ -1538,13 +1675,15 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CA01 Geode Sentry",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Golem",
+            "type": "Artifact Creature \u2013 Golem",
             "number": 166,
             "color_identity": "C",
             "cost": "{2}",
@@ -1559,7 +1698,9 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CA05 Evolving Wilds",
@@ -1580,13 +1721,15 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CA02",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Golem",
+            "type": "Artifact Creature \u2013 Golem",
             "number": 167,
             "color_identity": "C",
             "cost": "{3}",
@@ -1601,13 +1744,15 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CA03 Terramorphic Golem",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Golem",
+            "type": "Artifact Creature \u2013 Golem",
             "number": 168,
             "color_identity": "C",
             "cost": "{4}",
@@ -1622,7 +1767,9 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CA04 Necromancer's Grimoire",
@@ -1643,7 +1790,9 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU11",
@@ -1664,7 +1813,9 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CU15 Consider",
@@ -1685,13 +1836,15 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU05 Lich Spellweaver",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton Warlock",
+            "type": "Creature \u2013 Skeleton Warlock",
             "number": 49,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -1706,13 +1859,15 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU01",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Demon Bird",
+            "type": "Creature \u2013 Demon Bird",
             "number": 45,
             "color_identity": "U",
             "cost": "{U}",
@@ -1727,13 +1882,15 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB02",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elf Cleric",
+            "type": "Creature \u2013 Elf Cleric",
             "number": 75,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1748,13 +1905,15 @@
             "alias": "",
             "position": "82",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW01",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Cleric",
+            "type": "Creature \u2013 Human Cleric",
             "number": 16,
             "color_identity": "W",
             "cost": "{W}",
@@ -1769,13 +1928,15 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW05",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Soldier",
+            "type": "Creature \u2013 Human Soldier",
             "number": 20,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -1790,13 +1951,15 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW03",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Griffin",
+            "type": "Creature \u2013 Griffin",
             "number": 18,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1811,13 +1974,15 @@
             "alias": "",
             "position": "85",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW07",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Ogre Warrior",
+            "type": "Creature \u2013 Ogre Warrior",
             "number": 22,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -1832,13 +1997,15 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW08",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Cat Angel",
+            "type": "Creature \u2013 Cat Angel",
             "number": 23,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -1853,13 +2020,15 @@
             "alias": "",
             "position": "87",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW10",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Ogre Warrior",
+            "type": "Creature \u2013 Ogre Warrior",
             "number": 25,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
@@ -1874,7 +2043,9 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW11 Honor",
@@ -1895,13 +2066,15 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ04",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elf Soldier",
+            "type": "Creature \u2013 Elf Soldier",
             "number": 149,
             "color_identity": "WU",
             "cost": "{W}{U}",
@@ -1916,13 +2089,15 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU04",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Dwarf Warrior",
+            "type": "Creature \u2013 Dwarf Warrior",
             "number": 48,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -1937,13 +2112,15 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU07",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Zombie Warlock",
+            "type": "Creature \u2013 Zombie Warlock",
             "number": 51,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
@@ -1958,7 +2135,9 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU08",
@@ -1979,7 +2158,9 @@
             "alias": "",
             "position": "93",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU09",
@@ -2000,7 +2181,9 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU11",
@@ -2021,7 +2204,9 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB12",
@@ -2042,7 +2227,9 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB10",
@@ -2063,7 +2250,9 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB11",
@@ -2084,7 +2273,9 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR14",
@@ -2105,13 +2296,15 @@
             "alias": "",
             "position": "99",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR08",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Dragon",
+            "type": "Creature \u2013 Dragon",
             "number": 110,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -2126,7 +2319,9 @@
             "alias": "",
             "position": "100",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR09 Strip to the Bone",
@@ -2147,7 +2342,9 @@
             "alias": "",
             "position": "101",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR10 Vicious Vision",
@@ -2168,7 +2365,9 @@
             "alias": "",
             "position": "102",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR13 Molten Birth",
@@ -2189,13 +2388,15 @@
             "alias": "",
             "position": "103",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG03",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Orc Soldier",
+            "type": "Creature \u2013 Orc Soldier",
             "number": 134,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2210,13 +2411,15 @@
             "alias": "",
             "position": "104",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG07",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Scout",
+            "type": "Creature \u2013 Human Scout",
             "number": 138,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -2231,13 +2434,15 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG08",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 139,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
@@ -2252,13 +2457,15 @@
             "alias": "",
             "position": "106",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG09 Giant Feaster",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 140,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
@@ -2273,7 +2480,9 @@
             "alias": "",
             "position": "107",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG10 Fiendish Tribute",
@@ -2294,7 +2503,9 @@
             "alias": "",
             "position": "108",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG15 Commune With Nature",
@@ -2315,7 +2526,9 @@
             "alias": "",
             "position": "109",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU12 Scour the Libraries",
@@ -2336,13 +2549,15 @@
             "alias": "",
             "position": "110",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR01",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Wizard",
+            "type": "Creature \u2013 Human Wizard",
             "number": 103,
             "color_identity": "R",
             "cost": "{R}",
@@ -2357,13 +2572,15 @@
             "alias": "",
             "position": "111",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR02 Scoria Magmaweaver",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elemental Sorcerer",
+            "type": "Creature \u2013 Elemental Sorcerer",
             "number": 104,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2378,13 +2595,15 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ02 Scoria Necromancer",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elemental Warlock",
+            "type": "Creature \u2013 Elemental Warlock",
             "number": 147,
             "color_identity": "BR",
             "cost": "{B}{R}",
@@ -2399,13 +2618,15 @@
             "alias": "",
             "position": "113",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ03",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 148,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
@@ -2420,13 +2641,15 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ05",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Zombie Knight",
+            "type": "Creature \u2013 Zombie Knight",
             "number": 150,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
@@ -2441,13 +2664,15 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ11",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 156,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
@@ -2462,13 +2687,15 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ14",
             "color": "UG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Druid",
+            "type": "Creature \u2013 Human Druid",
             "number": 159,
             "color_identity": "UG",
             "cost": "{G}{U}",
@@ -2483,7 +2710,9 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ15",
@@ -2504,13 +2733,15 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU03",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Soldier",
+            "type": "Creature \u2013 Human Soldier",
             "number": 47,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -2525,13 +2756,15 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ06",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton Warlock",
+            "type": "Creature \u2013 Skeleton Warlock",
             "number": 151,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -2546,13 +2779,15 @@
             "alias": "",
             "position": "120",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ07",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Ogre Warrior",
+            "type": "Creature \u2013 Ogre Warrior",
             "number": 152,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
@@ -2567,13 +2802,15 @@
             "alias": "",
             "position": "121",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ08",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elk",
+            "type": "Creature \u2013 Elk",
             "number": 153,
             "color_identity": "WG",
             "cost": "{G}{W}",
@@ -2588,13 +2825,15 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ09",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 154,
             "color_identity": "RG",
             "cost": "{4}{R}{G}",
@@ -2609,13 +2848,15 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ10",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Druid",
+            "type": "Creature \u2013 Human Druid",
             "number": 155,
             "color_identity": "RG",
             "cost": "{R}{G}",
@@ -2630,13 +2871,15 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ12",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 157,
             "color_identity": "WR",
             "cost": "{R}{W}",
@@ -2651,13 +2894,15 @@
             "alias": "",
             "position": "125",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ13",
             "color": "UG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 158,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
@@ -2672,13 +2917,15 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ16",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Zombie Warlock",
+            "type": "Creature \u2013 Zombie Warlock",
             "number": 161,
             "color_identity": "UR",
             "cost": "{U}{R}",
@@ -2693,13 +2940,15 @@
             "alias": "",
             "position": "127",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ17",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton Noble",
+            "type": "Creature \u2013 Skeleton Noble",
             "number": 162,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
@@ -2714,13 +2963,15 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ18",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Zombie Cleric",
+            "type": "Creature \u2013 Zombie Cleric",
             "number": 163,
             "color_identity": "WB",
             "cost": "{W}{B}",
@@ -2735,13 +2986,15 @@
             "alias": "",
             "position": "129",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB05",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 78,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -2756,13 +3009,15 @@
             "alias": "",
             "position": "130",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ20 Druid Coven",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Druid",
+            "type": "Creature \u2013 Human Druid",
             "number": 165,
             "color_identity": "BG",
             "cost": "{B}{G}",
@@ -2777,13 +3032,15 @@
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW12 Glistening Sword",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 27,
             "color_identity": "W",
             "cost": "{W}",
@@ -2798,13 +3055,15 @@
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW09 Merciless Slayer",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elf Warrior",
+            "type": "Creature \u2013 Elf Warrior",
             "number": 24,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -2819,13 +3078,15 @@
             "alias": "",
             "position": "133",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB03 Rogue Necromancer",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 76,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -2840,13 +3101,15 @@
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CR04",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Scout",
+            "type": "Creature \u2013 Human Scout",
             "number": 91,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2861,13 +3124,15 @@
             "alias": "",
             "position": "135",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR06",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton Warrior",
+            "type": "Creature \u2013 Skeleton Warrior",
             "number": 108,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -2882,13 +3147,15 @@
             "alias": "",
             "position": "136",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG02 Drake Slayer",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elf Archer",
+            "type": "Creature \u2013 Elf Archer",
             "number": 133,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -2903,13 +3170,15 @@
             "alias": "",
             "position": "137",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG04 Soilbound Fiend",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 135,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2924,13 +3193,15 @@
             "alias": "",
             "position": "138",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG06",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Hydra",
+            "type": "Creature \u2013 Hydra",
             "number": 137,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
@@ -2945,13 +3216,15 @@
             "alias": "",
             "position": "139",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB07 Fallen Company",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton Soldier",
+            "type": "Creature \u2013 Skeleton Soldier",
             "number": 80,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -2966,13 +3239,15 @@
             "alias": "",
             "position": "140",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB08",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 81,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
@@ -2987,7 +3262,9 @@
             "alias": "",
             "position": "141",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB09 Blood Ritual",
@@ -3008,13 +3285,15 @@
             "alias": "",
             "position": "142",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB01",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Zombie Berserker",
+            "type": "Creature \u2013 Zombie Berserker",
             "number": 74,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3029,13 +3308,15 @@
             "alias": "",
             "position": "143",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU06",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 50,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -3050,13 +3331,15 @@
             "alias": "",
             "position": "144",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ19 Gifted Demon",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Demon Beast",
+            "type": "Creature \u2013 Demon Beast",
             "number": 164,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
@@ -3071,13 +3354,15 @@
             "alias": "",
             "position": "145",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR12 Smoldering Blade",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 114,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3092,13 +3377,15 @@
             "alias": "",
             "position": "146",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB04",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 77,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -3113,13 +3400,15 @@
             "alias": "",
             "position": "147",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG05",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 136,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -3134,13 +3423,15 @@
             "alias": "",
             "position": "148",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW06",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Orc Warrior",
+            "type": "Creature \u2013 Orc Warrior",
             "number": 21,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -3155,13 +3446,15 @@
             "alias": "",
             "position": "149",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW04",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton Warrior",
+            "type": "Creature \u2013 Skeleton Warrior",
             "number": 19,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -3176,7 +3469,9 @@
             "alias": "",
             "position": "150",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW13 Spare",
@@ -3197,7 +3492,9 @@
             "alias": "",
             "position": "151",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW14 Inner Peace",
@@ -3218,13 +3515,15 @@
             "alias": "",
             "position": "152",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR07",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Ogre Warrior",
+            "type": "Creature \u2013 Ogre Warrior",
             "number": 109,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -3239,13 +3538,15 @@
             "alias": "",
             "position": "153",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR03",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Dwarf Warrior",
+            "type": "Creature \u2013 Dwarf Warrior",
             "number": 105,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3260,7 +3561,9 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU13 Sepulchral Disdain",
@@ -3281,13 +3584,15 @@
             "alias": "",
             "position": "155",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR05 Scoria Siren",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elemental Sorcerer",
+            "type": "Creature \u2013 Elemental Sorcerer",
             "number": 107,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -3302,7 +3607,9 @@
             "alias": "",
             "position": "156",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UR11 Magmatic Mastery",
@@ -3323,13 +3630,15 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UZ01 Burning Horde",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton Elemental",
+            "type": "Creature \u2013 Skeleton Elemental",
             "number": 146,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
@@ -3344,13 +3653,15 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skeleton",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2014 Skeleton",
+            "type": "Token Creature \u2013 Skeleton",
             "number": 1,
             "color_identity": "B",
             "cost": "",
@@ -3365,13 +3676,15 @@
             "alias": "",
             "position": "159",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB13 Sacrificial Blade",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 86,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3386,7 +3699,9 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG12 Rib Cage",
@@ -3407,17 +3722,19 @@
             "alias": "",
             "position": "161",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UC05 Bleeding Edge",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 175,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "Equipped creature gets +3/+0.\nEquip\u2014Pay 3 life",
+            "rules_text": "Equipped creature gets +3/+0.\nEquip\u2013Pay 3 life",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3428,7 +3745,9 @@
             "alias": "",
             "position": "162",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UC10 Necromancer's Lair",
@@ -3449,7 +3768,9 @@
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UC09 Giant's Tomb",
@@ -3470,13 +3791,15 @@
             "alias": "",
             "position": "164",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UW02",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Dwarf Warrior",
+            "type": "Creature \u2013 Dwarf Warrior",
             "number": 17,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -3491,7 +3814,9 @@
             "alias": "",
             "position": "165",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG13 Feed the young",
@@ -3512,13 +3837,15 @@
             "alias": "",
             "position": "166",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UC03",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Golem",
+            "type": "Artifact Creature \u2013 Golem",
             "number": 173,
             "color_identity": "C",
             "cost": "{5}",
@@ -3533,13 +3860,15 @@
             "alias": "",
             "position": "167",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zombie",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2014 Zombie",
+            "type": "Token Creature \u2013 Zombie",
             "number": 2,
             "color_identity": "B",
             "cost": "",
@@ -3554,13 +3883,15 @@
             "alias": "",
             "position": "168",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB06",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton Knight",
+            "type": "Creature \u2013 Skeleton Knight",
             "number": 79,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -3575,7 +3906,9 @@
             "alias": "",
             "position": "169",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UB14",
@@ -3596,7 +3929,9 @@
             "alias": "",
             "position": "170",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "CG14",
@@ -3617,7 +3952,9 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG11",
@@ -3638,13 +3975,15 @@
             "alias": "",
             "position": "172",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UC02",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Golem",
+            "type": "Artifact Creature \u2013 Golem",
             "number": 172,
             "color_identity": "C",
             "cost": "{3}",
@@ -3659,13 +3998,15 @@
             "alias": "",
             "position": "173",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UC01 Geomancer's Servant",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Golem",
+            "type": "Artifact Creature \u2013 Golem",
             "number": 171,
             "color_identity": "C",
             "cost": "{1}",
@@ -3680,7 +4021,9 @@
             "alias": "",
             "position": "174",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UC04",
@@ -3701,7 +4044,9 @@
             "alias": "",
             "position": "175",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UC08 Titan's Rest",
@@ -3722,7 +4067,9 @@
             "alias": "",
             "position": "176",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU14",
@@ -3743,13 +4090,15 @@
             "alias": "",
             "position": "177",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UG01",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Druid",
+            "type": "Creature \u2013 Human Druid",
             "number": 132,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -3764,7 +4113,9 @@
             "alias": "",
             "position": "178",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU10 Astute Recall",
@@ -3785,13 +4136,15 @@
             "alias": "",
             "position": "179",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "UU02",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Dwarf Warlock",
+            "type": "Creature \u2013 Dwarf Warlock",
             "number": 46,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -3806,13 +4159,15 @@
             "alias": "",
             "position": "180",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Demon Beast",
             "color": "G",
             "rarity": "common",
-            "type": "Token Creature \u2014 Demon Beast",
+            "type": "Token Creature \u2013 Demon Beast",
             "number": 3,
             "color_identity": "G",
             "cost": "",
@@ -3827,7 +4182,9 @@
             "alias": "",
             "position": "181",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Abandoned Sanctuary",
@@ -3848,7 +4205,9 @@
             "alias": "",
             "position": "182",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Coastal Monument",
@@ -3869,7 +4228,9 @@
             "alias": "",
             "position": "183",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Collapsed Temple",
@@ -3890,7 +4251,9 @@
             "alias": "",
             "position": "184",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Desolate Endscape",
@@ -3911,7 +4274,9 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dragons' Grave",
@@ -3932,7 +4297,9 @@
             "alias": "",
             "position": "186",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Druid's Lodge",
@@ -3953,7 +4320,9 @@
             "alias": "",
             "position": "187",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mystical Inscriptions",
@@ -3974,7 +4343,9 @@
             "alias": "",
             "position": "188",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plateau Ruins",
@@ -3995,7 +4366,9 @@
             "alias": "",
             "position": "189",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ruined Mansion",
@@ -4016,7 +4389,9 @@
             "alias": "",
             "position": "190",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shattered Statue",
@@ -4037,13 +4412,15 @@
             "alias": "",
             "position": "191",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Plains",
+            "type": "Basic Land \u2013 Plains",
             "number": 190,
             "color_identity": "W",
             "cost": "",
@@ -4058,13 +4435,15 @@
             "alias": "",
             "position": "192",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Island",
+            "type": "Basic Land \u2013 Island",
             "number": 191,
             "color_identity": "U",
             "cost": "",
@@ -4079,13 +4458,15 @@
             "alias": "",
             "position": "193",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Swamp",
+            "type": "Basic Land \u2013 Swamp",
             "number": 192,
             "color_identity": "B",
             "cost": "",
@@ -4100,13 +4481,15 @@
             "alias": "",
             "position": "194",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Mountain",
+            "type": "Basic Land \u2013 Mountain",
             "number": 193,
             "color_identity": "R",
             "cost": "",
@@ -4121,13 +4504,15 @@
             "alias": "",
             "position": "195",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Forest",
+            "type": "Basic Land \u2013 Forest",
             "number": 194,
             "color_identity": "G",
             "cost": "",
@@ -4142,8 +4527,9 @@
             "alias": "",
             "position": "196",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         }
-    ],
-    "version": 1
+    ]
 }

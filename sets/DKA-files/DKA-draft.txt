@@ -1,0 +1,2628 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CB05 Unyielding Wight",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Soldier",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/0.png"
+			}
+		},
+		{
+			"name": "CR06",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/1.png"
+			}
+		},
+		{
+			"name": "CW02",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Archer",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/2.png"
+			}
+		},
+		{
+			"name": "CW01",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elk",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/3.png"
+			}
+		},
+		{
+			"name": "CW07",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elk",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/4.png"
+			}
+		},
+		{
+			"name": "CW03 Champion of the Pride",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/5.png"
+			}
+		},
+		{
+			"name": "CW06 Unwavering Swordmaster",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Orc Soldier",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/6.png"
+			}
+		},
+		{
+			"name": "CU01 Crypt Delver",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/7.png"
+			}
+		},
+		{
+			"name": "CW05 Saddled Griffin",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/8.png"
+			}
+		},
+		{
+			"name": "CW09",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/9.png"
+			}
+		},
+		{
+			"name": "CW08",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/10.png"
+			}
+		},
+		{
+			"name": "CW10",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Ogre Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/11.png"
+			}
+		},
+		{
+			"name": "CW11",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Cat Angel",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/12.png"
+			}
+		},
+		{
+			"name": "CW14 Heroic Resilience",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/13.png"
+			}
+		},
+		{
+			"name": "CW13 Quiescence",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/14.png"
+			}
+		},
+		{
+			"name": "CW12 Lose Hope",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/15.png"
+			}
+		},
+		{
+			"name": "CW15 Left Forgotten",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/16.png"
+			}
+		},
+		{
+			"name": "CU02 Singing Skeleton",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Skeleton Bard",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/17.png"
+			}
+		},
+		{
+			"name": "CU05",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Skeleton Warlock",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/18.png"
+			}
+		},
+		{
+			"name": "CU04 Carcass Collecter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Demon Bird",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/19.png"
+			}
+		},
+		{
+			"name": "CW04",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Zombie",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/20.png"
+			}
+		},
+		{
+			"name": "CU03",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/21.png"
+			}
+		},
+		{
+			"name": "CU06 Vagrant Journeymage",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Ogre Wizard",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/22.png"
+			}
+		},
+		{
+			"name": "CU07 Enyin Drakeraider",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/23.png"
+			}
+		},
+		{
+			"name": "CU08",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Demon Crab",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/24.png"
+			}
+		},
+		{
+			"name": "CU10",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/25.png"
+			}
+		},
+		{
+			"name": "CU12",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/26.png"
+			}
+		},
+		{
+			"name": "CU13 Spiritual Projection",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/27.png"
+			}
+		},
+		{
+			"name": "CU09 Spellbubble",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/28.png"
+			}
+		},
+		{
+			"name": "CU14 Hold Firm",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/29.png"
+			}
+		},
+		{
+			"name": "CB01 Rotting Sentry",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Soldier",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/30.png"
+			}
+		},
+		{
+			"name": "CB04",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/31.png"
+			}
+		},
+		{
+			"name": "CB07",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Skeleton Soldier",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/32.png"
+			}
+		},
+		{
+			"name": "CB03",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/33.png"
+			}
+		},
+		{
+			"name": "CB02",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Druid",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/34.png"
+			}
+		},
+		{
+			"name": "CB06",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demon Dog",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/35.png"
+			}
+		},
+		{
+			"name": "CB08",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/36.png"
+			}
+		},
+		{
+			"name": "CB09",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/37.png"
+			}
+		},
+		{
+			"name": "CB14 Brutal Downfall",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/38.png"
+			}
+		},
+		{
+			"name": "CB15 Death Wind",
+			"rarity": "common",
+			"mana_cost": "{X}{B}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/39.png"
+			}
+		},
+		{
+			"name": "CB13",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/40.png"
+			}
+		},
+		{
+			"name": "CB10 Curse of Years",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/41.png"
+			}
+		},
+		{
+			"name": "CB12",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/42.png"
+			}
+		},
+		{
+			"name": "CB11 Rotting Finality",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/43.png"
+			}
+		},
+		{
+			"name": "CR05 Dashing Blazeblade",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/44.png"
+			}
+		},
+		{
+			"name": "CR02",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/45.png"
+			}
+		},
+		{
+			"name": "CR01 Ember Wight",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Skeleton Elemental",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/46.png"
+			}
+		},
+		{
+			"name": "CR07 Magma Spitter",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental Frog",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/47.png"
+			}
+		},
+		{
+			"name": "CR09",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Giant Skeleton Elemental",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/48.png"
+			}
+		},
+		{
+			"name": "CR15 Searing Effigy",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/49.png"
+			}
+		},
+		{
+			"name": "CR14 Molten Insides",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/50.png"
+			}
+		},
+		{
+			"name": "CR13 Break Blades",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/51.png"
+			}
+		},
+		{
+			"name": "CR12 Cursed Knowledge",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/52.png"
+			}
+		},
+		{
+			"name": "CR11",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/53.png"
+			}
+		},
+		{
+			"name": "CR10",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/54.png"
+			}
+		},
+		{
+			"name": "CG01 Dedicated Druid",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/55.png"
+			}
+		},
+		{
+			"name": "CG05",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/56.png"
+			}
+		},
+		{
+			"name": "CG03",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/57.png"
+			}
+		},
+		{
+			"name": "CG04",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Demon Spider",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/58.png"
+			}
+		},
+		{
+			"name": "CG07 Give someting",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/59.png"
+			}
+		},
+		{
+			"name": "CG06",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/60.png"
+			}
+		},
+		{
+			"name": "CG02",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/61.png"
+			}
+		},
+		{
+			"name": "CG09",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/62.png"
+			}
+		},
+		{
+			"name": "CG08",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/63.png"
+			}
+		},
+		{
+			"name": "CG10",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/64.png"
+			}
+		},
+		{
+			"name": "CG11 Vicious Strength",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/65.png"
+			}
+		},
+		{
+			"name": "CG12 Feast",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/66.png"
+			}
+		},
+		{
+			"name": "CG13 Return to Nature",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/67.png"
+			}
+		},
+		{
+			"name": "UR04",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Skeleton Elemental",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/68.png"
+			}
+		},
+		{
+			"name": "CR03 Scoria Acolyte",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Sorcerer",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/69.png"
+			}
+		},
+		{
+			"name": "CR08 Roiling Lava",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/70.png"
+			}
+		},
+		{
+			"name": "UG14 Demon's Harvest",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/71.png"
+			}
+		},
+		{
+			"name": "CA06 Forgotten Scroll",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Scroll",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/72.png"
+			}
+		},
+		{
+			"name": "CA01 Geode Sentry",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/73.png"
+			}
+		},
+		{
+			"name": "CA05 Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/74.png"
+			}
+		},
+		{
+			"name": "CA02",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/75.png"
+			}
+		},
+		{
+			"name": "CA03 Terramorphic Golem",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/76.png"
+			}
+		},
+		{
+			"name": "CA04 Necromancer's Grimoire",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/77.png"
+			}
+		},
+		{
+			"name": "CU11",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/78.png"
+			}
+		},
+		{
+			"name": "CU15 Consider",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/79.png"
+			}
+		},
+		{
+			"name": "UU05 Lich Spellweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Skeleton Warlock",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/80.png"
+			}
+		},
+		{
+			"name": "UU01",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Demon Bird",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/81.png"
+			}
+		},
+		{
+			"name": "UB02",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/82.png"
+			}
+		},
+		{
+			"name": "UW01",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/83.png"
+			}
+		},
+		{
+			"name": "UW05",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/84.png"
+			}
+		},
+		{
+			"name": "UW03",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/85.png"
+			}
+		},
+		{
+			"name": "UW07",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Ogre Warrior",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/86.png"
+			}
+		},
+		{
+			"name": "UW08",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Cat Angel",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/87.png"
+			}
+		},
+		{
+			"name": "UW10",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Ogre Warrior",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/88.png"
+			}
+		},
+		{
+			"name": "UW11 Honor",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/89.png"
+			}
+		},
+		{
+			"name": "UZ04",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/90.png"
+			}
+		},
+		{
+			"name": "UU04",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/91.png"
+			}
+		},
+		{
+			"name": "UU07",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/92.png"
+			}
+		},
+		{
+			"name": "UU08",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/93.png"
+			}
+		},
+		{
+			"name": "UU09",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/94.png"
+			}
+		},
+		{
+			"name": "UU11",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/95.png"
+			}
+		},
+		{
+			"name": "UB12",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/96.png"
+			}
+		},
+		{
+			"name": "UB10",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/97.png"
+			}
+		},
+		{
+			"name": "UB11",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/98.png"
+			}
+		},
+		{
+			"name": "UR14",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/99.png"
+			}
+		},
+		{
+			"name": "UR08",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/100.png"
+			}
+		},
+		{
+			"name": "UR09 Strip to the Bone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/101.png"
+			}
+		},
+		{
+			"name": "UR10 Vicious Vision",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/102.png"
+			}
+		},
+		{
+			"name": "UR13 Molten Birth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/103.png"
+			}
+		},
+		{
+			"name": "UG03",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Orc Soldier",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/104.png"
+			}
+		},
+		{
+			"name": "UG07",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/105.png"
+			}
+		},
+		{
+			"name": "UG08",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/106.png"
+			}
+		},
+		{
+			"name": "UG09 Giant Feaster",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/107.png"
+			}
+		},
+		{
+			"name": "UG10 Fiendish Tribute",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/108.png"
+			}
+		},
+		{
+			"name": "CG15 Commune With Nature",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/109.png"
+			}
+		},
+		{
+			"name": "UU12 Scour the Libraries",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/110.png"
+			}
+		},
+		{
+			"name": "UR01",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/111.png"
+			}
+		},
+		{
+			"name": "UR02 Scoria Magmaweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Sorcerer",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/112.png"
+			}
+		},
+		{
+			"name": "UZ02 Scoria Necromancer",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Elemental Warlock",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/113.png"
+			}
+		},
+		{
+			"name": "UZ03",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/114.png"
+			}
+		},
+		{
+			"name": "UZ05",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/115.png"
+			}
+		},
+		{
+			"name": "UZ11",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/116.png"
+			}
+		},
+		{
+			"name": "UZ14",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Druid",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/117.png"
+			}
+		},
+		{
+			"name": "UZ15",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/118.png"
+			}
+		},
+		{
+			"name": "UU03",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/119.png"
+			}
+		},
+		{
+			"name": "UZ06",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Skeleton Warlock",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/120.png"
+			}
+		},
+		{
+			"name": "UZ07",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Ogre Warrior",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/121.png"
+			}
+		},
+		{
+			"name": "UZ08",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Elk",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/122.png"
+			}
+		},
+		{
+			"name": "UZ09",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/123.png"
+			}
+		},
+		{
+			"name": "UZ10",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/124.png"
+			}
+		},
+		{
+			"name": "UZ12",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/125.png"
+			}
+		},
+		{
+			"name": "UZ13",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/126.png"
+			}
+		},
+		{
+			"name": "UZ16",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/127.png"
+			}
+		},
+		{
+			"name": "UZ17",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Skeleton Noble",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/128.png"
+			}
+		},
+		{
+			"name": "UZ18",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Zombie Cleric",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/129.png"
+			}
+		},
+		{
+			"name": "UB05",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/130.png"
+			}
+		},
+		{
+			"name": "UZ20 Druid Coven",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/131.png"
+			}
+		},
+		{
+			"name": "UW12 Glistening Sword",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/132.png"
+			}
+		},
+		{
+			"name": "UW09 Merciless Slayer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/133.png"
+			}
+		},
+		{
+			"name": "UB03 Rogue Necromancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/134.png"
+			}
+		},
+		{
+			"name": "CR04",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/135.png"
+			}
+		},
+		{
+			"name": "UR06",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/136.png"
+			}
+		},
+		{
+			"name": "UG02 Drake Slayer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/137.png"
+			}
+		},
+		{
+			"name": "UG04 Soilbound Fiend",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/138.png"
+			}
+		},
+		{
+			"name": "UG06",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/139.png"
+			}
+		},
+		{
+			"name": "UB07 Fallen Company",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Skeleton Soldier",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/140.png"
+			}
+		},
+		{
+			"name": "UB08",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/141.png"
+			}
+		},
+		{
+			"name": "UB09 Blood Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/142.png"
+			}
+		},
+		{
+			"name": "UB01",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Berserker",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/143.png"
+			}
+		},
+		{
+			"name": "UU06",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/144.png"
+			}
+		},
+		{
+			"name": "UZ19 Gifted Demon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/145.png"
+			}
+		},
+		{
+			"name": "UR12 Smoldering Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/146.png"
+			}
+		},
+		{
+			"name": "UB04",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/147.png"
+			}
+		},
+		{
+			"name": "UG05",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/148.png"
+			}
+		},
+		{
+			"name": "UW06",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/149.png"
+			}
+		},
+		{
+			"name": "UW04",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/150.png"
+			}
+		},
+		{
+			"name": "UW13 Spare",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/151.png"
+			}
+		},
+		{
+			"name": "UW14 Inner Peace",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/152.png"
+			}
+		},
+		{
+			"name": "UR07",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Ogre Warrior",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/153.png"
+			}
+		},
+		{
+			"name": "UR03",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/154.png"
+			}
+		},
+		{
+			"name": "UU13 Sepulchral Disdain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/155.png"
+			}
+		},
+		{
+			"name": "UR05 Scoria Siren",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Sorcerer",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/156.png"
+			}
+		},
+		{
+			"name": "UR11 Magmatic Mastery",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/157.png"
+			}
+		},
+		{
+			"name": "UZ01 Burning Horde",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Skeleton Elemental",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/158.png"
+			}
+		},
+		{
+			"name": "Skeleton",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/159.png"
+			}
+		},
+		{
+			"name": "UB13 Sacrificial Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/160.png"
+			}
+		},
+		{
+			"name": "UG12 Rib Cage",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/161.png"
+			}
+		},
+		{
+			"name": "UC05 Bleeding Edge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/162.png"
+			}
+		},
+		{
+			"name": "UC10 Necromancer's Lair",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/163.png"
+			}
+		},
+		{
+			"name": "UC09 Giant's Tomb",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/164.png"
+			}
+		},
+		{
+			"name": "UW02",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/165.png"
+			}
+		},
+		{
+			"name": "UG13 Feed the young",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/166.png"
+			}
+		},
+		{
+			"name": "UC03",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/167.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/168.png"
+			}
+		},
+		{
+			"name": "UB06",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Skeleton Knight",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/169.png"
+			}
+		},
+		{
+			"name": "UB14",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/170.png"
+			}
+		},
+		{
+			"name": "CG14",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/171.png"
+			}
+		},
+		{
+			"name": "UG11",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/172.png"
+			}
+		},
+		{
+			"name": "UC02",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/173.png"
+			}
+		},
+		{
+			"name": "UC01 Geomancer's Servant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/174.png"
+			}
+		},
+		{
+			"name": "UC04",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/175.png"
+			}
+		},
+		{
+			"name": "UC08 Titan's Rest",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/176.png"
+			}
+		},
+		{
+			"name": "UU14",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/177.png"
+			}
+		},
+		{
+			"name": "UG01",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/178.png"
+			}
+		},
+		{
+			"name": "UU10 Astute Recall",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/179.png"
+			}
+		},
+		{
+			"name": "UU02",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dwarf Warlock",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/180.png"
+			}
+		},
+		{
+			"name": "Demon Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon Beast",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/181.png"
+			}
+		},
+		{
+			"name": "Abandoned Sanctuary",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/182.png"
+			}
+		},
+		{
+			"name": "Coastal Monument",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/183.png"
+			}
+		},
+		{
+			"name": "Collapsed Temple",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/184.png"
+			}
+		},
+		{
+			"name": "Desolate Endscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/185.png"
+			}
+		},
+		{
+			"name": "Dragons' Grave",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/186.png"
+			}
+		},
+		{
+			"name": "Druid's Lodge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/187.png"
+			}
+		},
+		{
+			"name": "Mystical Inscriptions",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/188.png"
+			}
+		},
+		{
+			"name": "Plateau Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/189.png"
+			}
+		},
+		{
+			"name": "Ruined Mansion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/190.png"
+			}
+		},
+		{
+			"name": "Shattered Statue",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/191.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/192.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/193.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/194.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/195.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://SRandomName.github.io/sets/DKA-files/img/196.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+	4 UR04
+	4 UG14 Demon's Harvest
+	4 UU05 Lich Spellweaver
+	4 UU01
+	4 UB02
+	4 UW01
+	4 UW05
+	4 UW03
+	4 UW07
+	4 UW08
+	4 UW10
+	4 UW11 Honor
+	4 UZ04
+	4 UU04
+	4 UU07
+	4 UU08
+	4 UU09
+	4 UU11
+	4 UB12
+	4 UB10
+	4 UB11
+	4 UR14
+	4 UR08
+	4 UR09 Strip to the Bone
+	4 UR10 Vicious Vision
+	4 UR13 Molten Birth
+	4 UG03
+	4 UG07
+	4 UG08
+	4 UG09 Giant Feaster
+	4 UG10 Fiendish Tribute
+	4 UU12 Scour the Libraries
+	4 UR01
+	4 UR02 Scoria Magmaweaver
+	4 UZ02 Scoria Necromancer
+	4 UZ03
+	4 UZ05
+	4 UZ11
+	4 UZ14
+	4 UZ15
+	4 UU03
+	4 UZ06
+	4 UZ07
+	4 UZ08
+	4 UZ09
+	4 UZ10
+	4 UZ12
+	4 UZ13
+	4 UZ16
+	4 UZ17
+	4 UZ18
+	4 UB05
+	4 UZ20 Druid Coven
+	4 UW12 Glistening Sword
+	4 UW09 Merciless Slayer
+	4 UB03 Rogue Necromancer
+	4 UR06
+	4 UG02 Drake Slayer
+	4 UG04 Soilbound Fiend
+	4 UG06
+	4 UB07 Fallen Company
+	4 UB08
+	4 UB09 Blood Ritual
+	4 UB01
+	4 UU06
+	4 UZ19 Gifted Demon
+	4 UR12 Smoldering Blade
+	4 UB04
+	4 UG05
+	4 UW06
+	4 UW04
+	4 UW13 Spare
+	4 UW14 Inner Peace
+	4 UR07
+	4 UR03
+	4 UU13 Sepulchral Disdain
+	4 UR05 Scoria Siren
+	4 UR11 Magmatic Mastery
+	4 UZ01 Burning Horde
+	4 UB13 Sacrificial Blade
+	4 UG12 Rib Cage
+	4 UC05 Bleeding Edge
+	4 UC10 Necromancer's Lair
+	4 UC09 Giant's Tomb
+	4 UW02
+	4 UG13 Feed the young
+	4 UC03
+	4 UB06
+	4 UB14
+	4 UG11
+	4 UC02
+	4 UC01 Geomancer's Servant
+	4 UC04
+	4 UC08 Titan's Rest
+	4 UU14
+	4 UG01
+	4 UU10 Astute Recall
+	4 UU02
+	4 Abandoned Sanctuary
+	4 Coastal Monument
+	4 Collapsed Temple
+	4 Desolate Endscape
+	4 Dragons' Grave
+	4 Druid's Lodge
+	4 Mystical Inscriptions
+	4 Plateau Ruins
+	4 Ruined Mansion
+	4 Shattered Statue
+[common(6)]
+	8 CB05 Unyielding Wight
+	8 CR06
+	8 CW02
+	8 CW01
+	8 CW07
+	8 CW03 Champion of the Pride
+	8 CW06 Unwavering Swordmaster
+	8 CU01 Crypt Delver
+	8 CW05 Saddled Griffin
+	8 CW09
+	8 CW08
+	8 CW10
+	8 CW11
+	8 CW14 Heroic Resilience
+	8 CW13 Quiescence
+	8 CW12 Lose Hope
+	8 CW15 Left Forgotten
+	8 CU02 Singing Skeleton
+	8 CU05
+	8 CU04 Carcass Collecter
+	8 CW04
+	8 CU03
+	8 CU06 Vagrant Journeymage
+	8 CU07 Enyin Drakeraider
+	8 CU08
+	8 CU10
+	8 CU12
+	8 CU13 Spiritual Projection
+	8 CU09 Spellbubble
+	8 CU14 Hold Firm
+	8 CB01 Rotting Sentry
+	8 CB04
+	8 CB07
+	8 CB03
+	8 CB02
+	8 CB06
+	8 CB08
+	8 CB09
+	8 CB14 Brutal Downfall
+	8 CB15 Death Wind
+	8 CB13
+	8 CB10 Curse of Years
+	8 CB12
+	8 CB11 Rotting Finality
+	8 CR05 Dashing Blazeblade
+	8 CR02
+	8 CR01 Ember Wight
+	8 CR07 Magma Spitter
+	8 CR09
+	8 CR15 Searing Effigy
+	8 CR14 Molten Insides
+	8 CR13 Break Blades
+	8 CR12 Cursed Knowledge
+	8 CR11
+	8 CR10
+	8 CG01 Dedicated Druid
+	8 CG05
+	8 CG03
+	8 CG04
+	8 CG07 Give someting
+	8 CG06
+	8 CG02
+	8 CG09
+	8 CG08
+	8 CG10
+	8 CG11 Vicious Strength
+	8 CG12 Feast
+	8 CG13 Return to Nature
+	8 CR03 Scoria Acolyte
+	8 CR08 Roiling Lava
+	8 CA06 Forgotten Scroll
+	8 CA01 Geode Sentry
+	8 CA05 Evolving Wilds
+	8 CA02
+	8 CA03 Terramorphic Golem
+	8 CA04 Necromancer's Grimoire
+	8 CU11
+	8 CU15 Consider
+	8 CG15 Commune With Nature
+	8 CR04
+	8 CG14
+[common | masterpiece(1)]
+	8 CB05 Unyielding Wight
+	8 CR06
+	8 CW02
+	8 CW01
+	8 CW07
+	8 CW03 Champion of the Pride
+	8 CW06 Unwavering Swordmaster
+	8 CU01 Crypt Delver
+	8 CW05 Saddled Griffin
+	8 CW09
+	8 CW08
+	8 CW10
+	8 CW11
+	8 CW14 Heroic Resilience
+	8 CW13 Quiescence
+	8 CW12 Lose Hope
+	8 CW15 Left Forgotten
+	8 CU02 Singing Skeleton
+	8 CU05
+	8 CU04 Carcass Collecter
+	8 CW04
+	8 CU03
+	8 CU06 Vagrant Journeymage
+	8 CU07 Enyin Drakeraider
+	8 CU08
+	8 CU10
+	8 CU12
+	8 CU13 Spiritual Projection
+	8 CU09 Spellbubble
+	8 CU14 Hold Firm
+	8 CB01 Rotting Sentry
+	8 CB04
+	8 CB07
+	8 CB03
+	8 CB02
+	8 CB06
+	8 CB08
+	8 CB09
+	8 CB14 Brutal Downfall
+	8 CB15 Death Wind
+	8 CB13
+	8 CB10 Curse of Years
+	8 CB12
+	8 CB11 Rotting Finality
+	8 CR05 Dashing Blazeblade
+	8 CR02
+	8 CR01 Ember Wight
+	8 CR07 Magma Spitter
+	8 CR09
+	8 CR15 Searing Effigy
+	8 CR14 Molten Insides
+	8 CR13 Break Blades
+	8 CR12 Cursed Knowledge
+	8 CR11
+	8 CR10
+	8 CG01 Dedicated Druid
+	8 CG05
+	8 CG03
+	8 CG04
+	8 CG07 Give someting
+	8 CG06
+	8 CG02
+	8 CG09
+	8 CG08
+	8 CG10
+	8 CG11 Vicious Strength
+	8 CG12 Feast
+	8 CG13 Return to Nature
+	8 CR03 Scoria Acolyte
+	8 CR08 Roiling Lava
+	8 CA06 Forgotten Scroll
+	8 CA01 Geode Sentry
+	8 CA05 Evolving Wilds
+	8 CA02
+	8 CA03 Terramorphic Golem
+	8 CA04 Necromancer's Grimoire
+	8 CU11
+	8 CU15 Consider
+	8 CG15 Commune With Nature
+	8 CR04
+	8 CG14
+[foil(1)]
+	12 CB05 Unyielding Wight
+	12 CR06
+	12 CW02
+	12 CW01
+	12 CW07
+	12 CW03 Champion of the Pride
+	12 CW06 Unwavering Swordmaster
+	12 CU01 Crypt Delver
+	12 CW05 Saddled Griffin
+	12 CW09
+	12 CW08
+	12 CW10
+	12 CW11
+	12 CW14 Heroic Resilience
+	12 CW13 Quiescence
+	12 CW12 Lose Hope
+	12 CW15 Left Forgotten
+	12 CU02 Singing Skeleton
+	12 CU05
+	12 CU04 Carcass Collecter
+	12 CW04
+	12 CU03
+	12 CU06 Vagrant Journeymage
+	12 CU07 Enyin Drakeraider
+	12 CU08
+	12 CU10
+	12 CU12
+	12 CU13 Spiritual Projection
+	12 CU09 Spellbubble
+	12 CU14 Hold Firm
+	12 CB01 Rotting Sentry
+	12 CB04
+	12 CB07
+	12 CB03
+	12 CB02
+	12 CB06
+	12 CB08
+	12 CB09
+	12 CB14 Brutal Downfall
+	12 CB15 Death Wind
+	12 CB13
+	12 CB10 Curse of Years
+	12 CB12
+	12 CB11 Rotting Finality
+	12 CR05 Dashing Blazeblade
+	12 CR02
+	12 CR01 Ember Wight
+	12 CR07 Magma Spitter
+	12 CR09
+	12 CR15 Searing Effigy
+	12 CR14 Molten Insides
+	12 CR13 Break Blades
+	12 CR12 Cursed Knowledge
+	12 CR11
+	12 CR10
+	12 CG01 Dedicated Druid
+	12 CG05
+	12 CG03
+	12 CG04
+	12 CG07 Give someting
+	12 CG06
+	12 CG02
+	12 CG09
+	12 CG08
+	12 CG10
+	12 CG11 Vicious Strength
+	12 CG12 Feast
+	12 CG13 Return to Nature
+	6 UR04
+	12 CR03 Scoria Acolyte
+	12 CR08 Roiling Lava
+	6 UG14 Demon's Harvest
+	12 CA06 Forgotten Scroll
+	12 CA01 Geode Sentry
+	12 CA05 Evolving Wilds
+	12 CA02
+	12 CA03 Terramorphic Golem
+	12 CA04 Necromancer's Grimoire
+	12 CU11
+	12 CU15 Consider
+	6 UU05 Lich Spellweaver
+	6 UU01
+	6 UB02
+	6 UW01
+	6 UW05
+	6 UW03
+	6 UW07
+	6 UW08
+	6 UW10
+	6 UW11 Honor
+	6 UZ04
+	6 UU04
+	6 UU07
+	6 UU08
+	6 UU09
+	6 UU11
+	6 UB12
+	6 UB10
+	6 UB11
+	6 UR14
+	6 UR08
+	6 UR09 Strip to the Bone
+	6 UR10 Vicious Vision
+	6 UR13 Molten Birth
+	6 UG03
+	6 UG07
+	6 UG08
+	6 UG09 Giant Feaster
+	6 UG10 Fiendish Tribute
+	12 CG15 Commune With Nature
+	6 UU12 Scour the Libraries
+	6 UR01
+	6 UR02 Scoria Magmaweaver
+	6 UZ02 Scoria Necromancer
+	6 UZ03
+	6 UZ05
+	6 UZ11
+	6 UZ14
+	6 UZ15
+	6 UU03
+	6 UZ06
+	6 UZ07
+	6 UZ08
+	6 UZ09
+	6 UZ10
+	6 UZ12
+	6 UZ13
+	6 UZ16
+	6 UZ17
+	6 UZ18
+	6 UB05
+	6 UZ20 Druid Coven
+	6 UW12 Glistening Sword
+	6 UW09 Merciless Slayer
+	6 UB03 Rogue Necromancer
+	12 CR04
+	6 UR06
+	6 UG02 Drake Slayer
+	6 UG04 Soilbound Fiend
+	6 UG06
+	6 UB07 Fallen Company
+	6 UB08
+	6 UB09 Blood Ritual
+	6 UB01
+	6 UU06
+	6 UZ19 Gifted Demon
+	6 UR12 Smoldering Blade
+	6 UB04
+	6 UG05
+	6 UW06
+	6 UW04
+	6 UW13 Spare
+	6 UW14 Inner Peace
+	6 UR07
+	6 UR03
+	6 UU13 Sepulchral Disdain
+	6 UR05 Scoria Siren
+	6 UR11 Magmatic Mastery
+	6 UZ01 Burning Horde
+	6 UB13 Sacrificial Blade
+	6 UG12 Rib Cage
+	6 UC05 Bleeding Edge
+	6 UC10 Necromancer's Lair
+	6 UC09 Giant's Tomb
+	6 UW02
+	6 UG13 Feed the young
+	6 UC03
+	6 UB06
+	6 UB14
+	12 CG14
+	6 UG11
+	6 UC02
+	6 UC01 Geomancer's Servant
+	6 UC04
+	6 UC08 Titan's Rest
+	6 UU14
+	6 UG01
+	6 UU10 Astute Recall
+	6 UU02
+	6 Abandoned Sanctuary
+	6 Coastal Monument
+	6 Collapsed Temple
+	6 Desolate Endscape
+	6 Dragons' Grave
+	6 Druid's Lodge
+	6 Mystical Inscriptions
+	6 Plateau Ruins
+	6 Ruined Mansion
+	6 Shattered Statue
+[wildcard(1)]
+	6 CB05 Unyielding Wight
+	6 CR06
+	6 CW02
+	6 CW01
+	6 CW07
+	6 CW03 Champion of the Pride
+	6 CW06 Unwavering Swordmaster
+	6 CU01 Crypt Delver
+	6 CW05 Saddled Griffin
+	6 CW09
+	6 CW08
+	6 CW10
+	6 CW11
+	6 CW14 Heroic Resilience
+	6 CW13 Quiescence
+	6 CW12 Lose Hope
+	6 CW15 Left Forgotten
+	6 CU02 Singing Skeleton
+	6 CU05
+	6 CU04 Carcass Collecter
+	6 CW04
+	6 CU03
+	6 CU06 Vagrant Journeymage
+	6 CU07 Enyin Drakeraider
+	6 CU08
+	6 CU10
+	6 CU12
+	6 CU13 Spiritual Projection
+	6 CU09 Spellbubble
+	6 CU14 Hold Firm
+	6 CB01 Rotting Sentry
+	6 CB04
+	6 CB07
+	6 CB03
+	6 CB02
+	6 CB06
+	6 CB08
+	6 CB09
+	6 CB14 Brutal Downfall
+	6 CB15 Death Wind
+	6 CB13
+	6 CB10 Curse of Years
+	6 CB12
+	6 CB11 Rotting Finality
+	6 CR05 Dashing Blazeblade
+	6 CR02
+	6 CR01 Ember Wight
+	6 CR07 Magma Spitter
+	6 CR09
+	6 CR15 Searing Effigy
+	6 CR14 Molten Insides
+	6 CR13 Break Blades
+	6 CR12 Cursed Knowledge
+	6 CR11
+	6 CR10
+	6 CG01 Dedicated Druid
+	6 CG05
+	6 CG03
+	6 CG04
+	6 CG07 Give someting
+	6 CG06
+	6 CG02
+	6 CG09
+	6 CG08
+	6 CG10
+	6 CG11 Vicious Strength
+	6 CG12 Feast
+	6 CG13 Return to Nature
+	15 UR04
+	6 CR03 Scoria Acolyte
+	6 CR08 Roiling Lava
+	15 UG14 Demon's Harvest
+	6 CA06 Forgotten Scroll
+	6 CA01 Geode Sentry
+	6 CA05 Evolving Wilds
+	6 CA02
+	6 CA03 Terramorphic Golem
+	6 CA04 Necromancer's Grimoire
+	6 CU11
+	6 CU15 Consider
+	15 UU05 Lich Spellweaver
+	15 UU01
+	15 UB02
+	15 UW01
+	15 UW05
+	15 UW03
+	15 UW07
+	15 UW08
+	15 UW10
+	15 UW11 Honor
+	15 UZ04
+	15 UU04
+	15 UU07
+	15 UU08
+	15 UU09
+	15 UU11
+	15 UB12
+	15 UB10
+	15 UB11
+	15 UR14
+	15 UR08
+	15 UR09 Strip to the Bone
+	15 UR10 Vicious Vision
+	15 UR13 Molten Birth
+	15 UG03
+	15 UG07
+	15 UG08
+	15 UG09 Giant Feaster
+	15 UG10 Fiendish Tribute
+	6 CG15 Commune With Nature
+	15 UU12 Scour the Libraries
+	15 UR01
+	15 UR02 Scoria Magmaweaver
+	15 UZ02 Scoria Necromancer
+	15 UZ03
+	15 UZ05
+	15 UZ11
+	15 UZ14
+	15 UZ15
+	15 UU03
+	15 UZ06
+	15 UZ07
+	15 UZ08
+	15 UZ09
+	15 UZ10
+	15 UZ12
+	15 UZ13
+	15 UZ16
+	15 UZ17
+	15 UZ18
+	15 UB05
+	15 UZ20 Druid Coven
+	15 UW12 Glistening Sword
+	15 UW09 Merciless Slayer
+	15 UB03 Rogue Necromancer
+	6 CR04
+	15 UR06
+	15 UG02 Drake Slayer
+	15 UG04 Soilbound Fiend
+	15 UG06
+	15 UB07 Fallen Company
+	15 UB08
+	15 UB09 Blood Ritual
+	15 UB01
+	15 UU06
+	15 UZ19 Gifted Demon
+	15 UR12 Smoldering Blade
+	15 UB04
+	15 UG05
+	15 UW06
+	15 UW04
+	15 UW13 Spare
+	15 UW14 Inner Peace
+	15 UR07
+	15 UR03
+	15 UU13 Sepulchral Disdain
+	15 UR05 Scoria Siren
+	15 UR11 Magmatic Mastery
+	15 UZ01 Burning Horde
+	15 UB13 Sacrificial Blade
+	15 UG12 Rib Cage
+	15 UC05 Bleeding Edge
+	15 UC10 Necromancer's Lair
+	15 UC09 Giant's Tomb
+	15 UW02
+	15 UG13 Feed the young
+	15 UC03
+	15 UB06
+	15 UB14
+	6 CG14
+	15 UG11
+	15 UC02
+	15 UC01 Geomancer's Servant
+	15 UC04
+	15 UC08 Titan's Rest
+	15 UU14
+	15 UG01
+	15 UU10 Astute Recall
+	15 UU02
+	15 Abandoned Sanctuary
+	15 Coastal Monument
+	15 Collapsed Temple
+	15 Desolate Endscape
+	15 Dragons' Grave
+	15 Druid's Lodge
+	15 Mystical Inscriptions
+	15 Plateau Ruins
+	15 Ruined Mansion
+	15 Shattered Statue
