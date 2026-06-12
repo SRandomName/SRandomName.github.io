@@ -1,4 +1,19 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CG07 added.
+
+CG07 Give someting removed.
+
+UB13 Sacrificial Blade
+rules_text: When this Equipment enters, target opponent sacrifices a creature.
+Equipped creature gets +1/+0 and gains menace.
+Equip {2} => When this Equipment enters, target opponent sacrifices a creature.
+Equipped creature gets +1/+0 and has menace.
+Equip {2}
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

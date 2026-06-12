@@ -1026,8 +1026,8 @@ When this creature enters, draw a card.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG07 Give someting</name>
-			<text></text>
+			<name>CG07</name>
+			<text>Trample, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
 			<set rarity="common" picurl="https://SRandomName.github.io/sets/DKA-files/img/59.png" num="123">DKA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2786,7 +2786,7 @@ Ceaseless {2}{B}{R} (You may cast this creature from your graveyard for its ceas
 		<card>
 			<name>UB13 Sacrificial Blade</name>
 			<text>When this Equipment enters, target opponent sacrifices a creature.
-Equipped creature gets +1/+0 and gains menace.
+Equipped creature gets +1/+0 and has menace.
 Equip {2}</text>
 			<set rarity="uncommon" picurl="https://SRandomName.github.io/sets/DKA-files/img/160.png" num="86">DKA</set>
 			<prop>

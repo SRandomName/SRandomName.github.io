@@ -2403,7 +2403,7 @@
 	6 CG05
 	6 CG03
 	6 CG04
-	6 CG07 Give someting
+	6 CG07
 	6 CG06
 	6 CG02
 	6 CG09
