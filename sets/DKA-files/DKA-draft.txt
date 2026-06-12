@@ -1972,8 +1972,7 @@
 		}
 	]
 
-[rare(1)]
-[uncommon(3)]
+[uncommon(4)]
 	4 UR04
 	4 UG14 Demon's Harvest
 	4 UU05 Lich Spellweaver
@@ -2082,89 +2081,7 @@
 	4 Plateau Ruins
 	4 Ruined Mansion
 	4 Shattered Statue
-[common(6)]
-	8 CB05 Unyielding Wight
-	8 CR06
-	8 CW02
-	8 CW01
-	8 CW07
-	8 CW03 Champion of the Pride
-	8 CW06 Unwavering Swordmaster
-	8 CU01 Crypt Delver
-	8 CW05 Saddled Griffin
-	8 CW09
-	8 CW08
-	8 CW10
-	8 CW11
-	8 CW14 Heroic Resilience
-	8 CW13 Quiescence
-	8 CW12 Lose Hope
-	8 CW15 Left Forgotten
-	8 CU02 Singing Skeleton
-	8 CU05
-	8 CU04 Carcass Collecter
-	8 CW04
-	8 CU03
-	8 CU06 Vagrant Journeymage
-	8 CU07 Enyin Drakeraider
-	8 CU08
-	8 CU10
-	8 CU12
-	8 CU13 Spiritual Projection
-	8 CU09 Spellbubble
-	8 CU14 Hold Firm
-	8 CB01 Rotting Sentry
-	8 CB04
-	8 CB07
-	8 CB03
-	8 CB02
-	8 CB06
-	8 CB08
-	8 CB09
-	8 CB14 Brutal Downfall
-	8 CB15 Death Wind
-	8 CB13
-	8 CB10 Curse of Years
-	8 CB12
-	8 CB11 Rotting Finality
-	8 CR05 Dashing Blazeblade
-	8 CR02
-	8 CR01 Ember Wight
-	8 CR07 Magma Spitter
-	8 CR09
-	8 CR15 Searing Effigy
-	8 CR14 Molten Insides
-	8 CR13 Break Blades
-	8 CR12 Cursed Knowledge
-	8 CR11
-	8 CR10
-	8 CG01 Dedicated Druid
-	8 CG05
-	8 CG03
-	8 CG04
-	8 CG07
-	8 CG06
-	8 CG02
-	8 CG09
-	8 CG08
-	8 CG10
-	8 CG11 Vicious Strength
-	8 CG12 Feast
-	8 CG13 Return to Nature
-	8 CR03 Scoria Acolyte
-	8 CR08 Roiling Lava
-	8 CA06 Forgotten Scroll
-	8 CA01 Geode Sentry
-	8 CA05 Evolving Wilds
-	8 CA02
-	8 CA03 Terramorphic Golem
-	8 CA04 Necromancer's Grimoire
-	8 CU11
-	8 CU15 Consider
-	8 CG15 Commune With Nature
-	8 CR04
-	8 CG14
-[common | masterpiece(1)]
+[common(7)]
 	8 CB05 Unyielding Wight
 	8 CR06
 	8 CW02
@@ -2426,16 +2343,6 @@
 	6 UG01
 	6 UU10 Astute Recall
 	6 UU02
-	6 Abandoned Sanctuary
-	6 Coastal Monument
-	6 Collapsed Temple
-	6 Desolate Endscape
-	6 Dragons' Grave
-	6 Druid's Lodge
-	6 Mystical Inscriptions
-	6 Plateau Ruins
-	6 Ruined Mansion
-	6 Shattered Statue
 [wildcard(1)]
 	6 CB05 Unyielding Wight
 	6 CR06
@@ -2616,13 +2523,20 @@
 	15 UG01
 	15 UU10 Astute Recall
 	15 UU02
-	15 Abandoned Sanctuary
-	15 Coastal Monument
-	15 Collapsed Temple
-	15 Desolate Endscape
-	15 Dragons' Grave
-	15 Druid's Lodge
-	15 Mystical Inscriptions
-	15 Plateau Ruins
-	15 Ruined Mansion
-	15 Shattered Statue
+[land slot(1)]
+	4 Abandoned Sanctuary
+	4 Coastal Monument
+	4 Collapsed Temple
+	4 Desolate Endscape
+	4 Dragons' Grave
+	4 Druid's Lodge
+	4 Mystical Inscriptions
+	4 Plateau Ruins
+	4 Ruined Mansion
+	4 Shattered Statue
+	10 CA05 Evolving Wilds
+	10 Plains
+	10 Island
+	10 Swamp
+	10 Mountain
+	10 Forest
