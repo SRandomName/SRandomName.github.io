@@ -1,4 +1,24 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+CW13 Quiescence
+type: Enchantment — Aura => Enchantment
+
+CU13 Spiritual Projection
+type: Enchantment => Enchantment — Aura
+
+CU14 Hold Firm
+rules_text: Put target creature on the bottom of its owner's library. If you control three or more creatures put it into its owner's library under the top three cards instead. => Put target creature on the top of its owner's library. If you control three or more creatures put it into its owner's library under the top three cards instead.
+
+UU07
+rules_text: This spell costs {1} less to cast for each Zombie you control.
+Flying => This spell costs {1} less to cast for each Skeleton and/or Zombie you control.
+Flying
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CG07 added.

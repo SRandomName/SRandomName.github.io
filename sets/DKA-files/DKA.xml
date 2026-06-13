@@ -5,7 +5,7 @@
 			<name>DKA</name>
 			<longname></longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-12</releasedate>
+			<releasedate>2026-06-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -263,7 +263,7 @@ When this creature enters, you gain 4 life.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment — Aura</type>
+				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
@@ -487,7 +487,7 @@ Enchanted creature loses all abilities and is a Spirit with flying and base powe
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
+				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
 				<manacost>U</manacost>
 				<cmc>1</cmc>
@@ -514,7 +514,7 @@ Enchanted creature loses all abilities and is a Spirit with flying and base powe
 		</card>
 		<card>
 			<name>CU14 Hold Firm</name>
-			<text>Put target creature on the bottom of its owner&apos;s library. If you control three or more creatures put it into its owner&apos;s library under the top three cards instead.</text>
+			<text>Put target creature on the top of its owner&apos;s library. If you control three or more creatures put it into its owner&apos;s library under the top three cards instead.</text>
 			<set rarity="common" picurl="https://SRandomName.github.io/sets/DKA-files/img/29.png" num="43">DKA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1596,7 +1596,7 @@ This creature can&apos;t be blocked by creatures with power 3 or greater.</text>
 		</card>
 		<card>
 			<name>UU07</name>
-			<text>This spell costs {1} less to cast for each Zombie you control.
+			<text>This spell costs {1} less to cast for each Skeleton and/or Zombie you control.
 Flying</text>
 			<set rarity="uncommon" picurl="https://SRandomName.github.io/sets/DKA-files/img/92.png" num="51">DKA</set>
 			<prop>

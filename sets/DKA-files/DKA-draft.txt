@@ -144,7 +144,7 @@
 			"name": "CW13 Quiescence",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://SRandomName.github.io/sets/DKA-files/img/14.png"
@@ -274,7 +274,7 @@
 			"name": "CU13 Spiritual Projection",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Enchantment",
+			"type": "Enchantment — Aura",
 			"collector_number": "42",
 			"image_uris": {
 				"en": "https://SRandomName.github.io/sets/DKA-files/img/27.png"
@@ -2071,16 +2071,6 @@
 	4 UG01
 	4 UU10 Astute Recall
 	4 UU02
-	4 Abandoned Sanctuary
-	4 Coastal Monument
-	4 Collapsed Temple
-	4 Desolate Endscape
-	4 Dragons' Grave
-	4 Druid's Lodge
-	4 Mystical Inscriptions
-	4 Plateau Ruins
-	4 Ruined Mansion
-	4 Shattered Statue
 [common(7)]
 	8 CB05 Unyielding Wight
 	8 CR06
@@ -2343,6 +2333,16 @@
 	6 UG01
 	6 UU10 Astute Recall
 	6 UU02
+	6 Abandoned Sanctuary
+	6 Coastal Monument
+	6 Collapsed Temple
+	6 Desolate Endscape
+	6 Dragons' Grave
+	6 Druid's Lodge
+	6 Mystical Inscriptions
+	6 Plateau Ruins
+	6 Ruined Mansion
+	6 Shattered Statue
 [wildcard(1)]
 	6 CB05 Unyielding Wight
 	6 CR06
@@ -2540,3 +2540,4 @@
 	10 Swamp
 	10 Mountain
 	10 Forest
+
