@@ -1,4 +1,541 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Being of Equilibrium added.
+Subject of Suffering added.
+Presence of Perplexity added.
+Herald of Havoc added.
+Returning from Victory added.
+Towering Defector added.
+Oddity of Obsession added.
+
+Compassion removed.
+Entity of Equilibrium removed.
+Ruthless Forsaker removed.
+
+Dedicated Insurgent
+
+Deployed Husks
+
+Disarmament
+
+White Vanguard
+
+Dissenters' Wrath
+
+Dormancy
+
+Fade Into Oblivion
+
+Forbiddance
+
+Forsake
+
+Glory, the Steadfast
+
+Guide of the Forsaken
+
+Hallowed Slayer
+
+Howling Fledgeling
+
+Impeccable Skill
+
+Loyal Detainer
+
+Mantra of Unity
+
+On Patrol
+
+Purpose
+
+Rebellious Angel
+
+Regret, Vision's Demise
+rules_text: Flying
+When this creature enters, exile up to one target creature. Its controller creates a 1/1 colorless creature token. Exile all cards from that player's graveyard. [i](The token has no creature types.)[/i] => Flying, lifelink
+When this creature enters, exile up to one target creature. Its controller creates a 1/1 colorless creature token. [i](The token has no creature types.)[/i]
+
+Renegade Marshal
+
+Renowned Guardian
+
+Repressive Skyguard
+
+Resolute Dissenter
+
+Stalwart Cleric
+
+Inquisitor's Strike
+
+The Pristine Overseer
+
+Venerable Inquisitor
+
+Venerated Wings
+
+Wayward Wanderer
+
+Winged Husk
+
+Abrogate
+
+Aether Tides
+
+Magisterial Sphinx
+
+Augur of Tragedies
+
+Consult the Seers
+
+Devoted Seer
+
+Discerning Neverfolk
+
+Drag Through Time
+
+Gliding Sage
+
+Herald of the Aether
+
+Obstructing Seer
+
+Library Sentry
+
+Anticipate
+
+Probe the Path
+
+Neverfolk Loreseeker
+
+Neverfolk Sentinel
+
+Neverfolk Stargazer
+
+Peer into the Unknown
+
+Pensive, the Introspective
+
+Pin Down
+
+Vision
+
+Seeker, a Spark Reborn
+
+Seer Detainer
+
+Servant of Recurrence
+
+Skybreacher
+
+Spell Capture
+
+Temporal Journey
+
+The Prime Augur
+
+Memory Lapse
+
+Tyrant of Depths
+
+Unravelling
+
+Violation of Reason
+
+Void Form
+
+Wailing Oracle
+
+Winged Anomaly
+
+Zestless
+
+Abyssal Blade
+
+Angst
+
+Clandestine Thaumaturge
+
+Dark Duality
+
+Deathshifter
+rules_text: Menace
+Deathshifter can't block
+You may cast Deathshifter from your graveyard by exiling another creature card from your graveyard in addition to paying its mana cost. => Menace
+This creature can't block
+You may cast this card from your graveyard by exiling another creature card from your graveyard in addition to paying its mana cost.
+
+Dissenter's Companion
+
+Dissenter's Blow
+
+Dread Bringer
+
+Shadowcaller
+
+Dread Renegade
+
+Anguish
+
+Expulsion of Identity
+
+Fall of the Library
+
+Flayed Husk
+
+Foretold Findings
+
+Frightwing
+
+Guardian of the Abyss
+
+Hallowed Caretaker
+
+Horrifying Visage
+
+Dusk Prowlers
+
+Looming Sentry
+
+Mantra of Resolve
+
+Noxious Finality
+
+Oppress
+
+Pulled from Beneath
+
+Reckless Swordmaster
+
+Resolve
+
+Scavenging Drake
+
+Grasp of the Abyss
+
+Shadowsire
+
+Spite, the Relentless
+rules_text: Martyr 1 [i](When this creature dies, you may exile it to return a creature with mana value 1 or less from your graveyard to your hand.)[/i]
+When this creature dies, if it didn't become a martyr, you lose 2 life. => When this creature dies, if it didn't become a martyr, you lose 2 life.
+Martyr 1 [i](When this creature dies, you may exile it to return a creature with mana value 1 or less from your graveyard to your hand.)[/i]
+
+Thoughtspill
+
+Tortured Husk
+
+Vicious Disfigurement
+cost: {2}{B} => {1}{B}
+
+The Nomad's Strike
+
+The Grand Forsaker
+rules_text: Creatures without creature types you control get +1/+1.
+{1}{B}: Exile target creature card from a graveyard. Create a 1/1 colorless creature token. [i](It has no creature types.)[/i] => When this creature enters, exile each creature card from each graveyard, then create that many 1/1 colorless creature tokens. [i](They have no creature types.)[/i]
+Creatures without creature types you control get +1/+1.
+
+Sulking Magus
+
+Strength of Resolve
+
+Steadfast Swordsman
+
+Afflatus
+
+Aether Phoenix
+cost: {2}{R}{R} => {1}{R}{R}
+pt: 4/3 => 3/2
+
+Augur Patrol
+
+Blood Seer
+
+Claim of the Aether
+
+Contemplate Chaos
+
+Crimson Scourge
+
+Drape in Blood
+
+Entropic Blast
+
+Entropic Creation
+
+Entropic Visionary
+
+Erratic Spellweaver
+
+Fiery Oracle
+
+Fracture
+
+Frontier Observer
+
+Seer's Charge
+
+Overwhelm
+
+Mantra of Possibility
+
+Meandering Shrieker
+
+Possibility
+
+Prophetic Hunter
+
+Ruthless Hunter
+pt: 1/3 => 1/4
+
+Scrutinize
+
+Searing Breath
+
+Sedition
+
+Seek the Aether
+
+Petitioner of the Past
+
+Seer Attendant
+
+Seer Swiftblade
+
+Seize Opportunities
+
+Sentinel Seer
+
+Single Out
+
+Search the Grimoires
+
+Unravel the Strings
+
+Unrelenting Charge
+
+Volatile Behavior
+
+Wandering Zealot
+
+Virulent Shower
+
+Aimless Wanderer
+
+Unbridled Creation
+
+Blessed by Nature
+
+Blight Maw
+
+Blooming Sprite
+
+Blossom
+
+Guardian of Harmony
+
+Burgeoning Harbinger
+
+Curious Remembrance
+
+Curious Wanderer
+
+Feast
+
+Fountain of Wisdom
+
+Frolicking Neverfolk
+
+Harmonic Scholar
+
+Harmony
+
+Immense Irregularity
+
+Imposing Stature
+
+Lost Savior
+
+Mantra of Harmony
+
+Neverfolk Hermit
+
+Nourish, the Revitalized
+
+Potence, Wild Preacher
+
+Primal Regent
+
+Ravager
+
+Percipience
+
+Roaming Husk
+
+Safekeeper
+
+Solitary Sprite
+
+Sprouting Burst
+
+Stalking Husk
+
+Staunch Huntsman
+
+Terrifying Presence
+
+Thirsting Neverfolk
+
+Towering Sovereign
+
+Tracker's Expertise
+
+Turn to Soil
+
+Unforgiving Predacity
+
+Voracious Grasp
+
+Insatiable Husk
+
+Yellow Visionary
+
+Blazing Vanguard
+
+Call of Harmony
+
+Chaos Weaver
+
+Disarray, the Opposer
+
+Festering Druid
+
+Fiery Inquisitor
+
+Gliding Watcher
+
+Hallowed Speaker
+
+Impassioned Oracle
+
+Insurgent Commander
+
+Merciless Thaumaturge
+
+Pitiful End
+
+Preacher of Unity
+
+Soothing Oracle
+
+Reverie, the Dreamshaper
+
+Vehement Neverfolk
+
+War Seers
+
+Warped Seer
+
+World Scholar
+
+Celestial Compass
+
+Hallowed Halberd
+
+Locked Sigil
+
+Righteous Edge
+
+Tome of Memories
+
+Abyssal Wastes
+
+Bog of the Forgotten
+
+Desolate Battleground
+
+Expendable Husk
+
+Forgotten Deity
+
+Forsaken Champion
+
+Husk Brute
+
+Husk Piker
+
+Terramorphic Expanse
+
+The Sparkless
+
+Twisting Ridge
+
+Unraveling Edge
+
+Vacant Seer
+
+Wretched Woods
+
+Herald of Unity
+
+Teachings of the Forgotten
+
+Gaze Upon the Ensuing
+
+Champion of Resolve
+
+Perturbing Reflection
+
+Courier of Vision
+
+Ignite, the Spontaneous
+
+Stalking Spawn
+
+Unity
+
+Left in Dismay
+
+Beheaded, the Nomad
+
+Reckoning, the Crimson Prophet
+
+Mantra of Vision
+
+Dog
+
+Wizard
+
+Husk
+
+Soldier
+
+Saproling
+
+Weird
+
+Follow the Path
+
+Examine
+
+Conveyance, Voice of Aether
+
+Paths Untravelled
+
+Dreamwatcher
+rules_text: Flying
+When Dreamwatcher enters the battlefield, mill four cards. Then you may put an instant or sorcery card from your graveyard on top of your library. => Flying
+When this creature enters, mill four cards. Then you may put an instant or sorcery card from your graveyard on top of your library.
+
+Enduring Vigor
+
+Fateweaver
+
+Paragon of Parity
+
+Omission of Reality
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
