@@ -1,4 +1,532 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Reckoning, Crimson Prophet added.
+Roads Untravelled added.
+Glimpse at a New World added.
+Shard of the Future added.
+Shattered Identity added.
+Dreadful Diviner added.
+Acolyte of the Path added.
+Font of Fecundity added.
+Compassion added.
+
+Reckoning, the Crimson Prophet removed.
+Paths Untravelled removed.
+Omission of Reality removed.
+
+Angel of Perseverance
+rules_text: Flying
+When this creature enters, put a +1/+1 counter on each each other creature you controls. => Flying
+When this creature enters, put a +1/+1 counter on each other creature you control.
+
+Angel of the Lost
+cost: {3}{W}{W} => {4}{W}
+
+Discerning Neverfolk
+rules_text: This creature can't be blocked by creatures with power 3 or greater.
+Whenever this creature deals combat damage to an opponent, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i] => This creature can't be blocked by creatures with power 3 or greater.
+Whenever this creature deals combat damage to an opponent, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Herald of the Aether
+rules_text: Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+Whenever you cast an instant or sorcery spell, you may tap or untap target creature. => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever you cast an instant or sorcery spell, you may tap or untap target creature.
+pt: 3/3 => 4/3
+
+Neverfolk Loreseeker
+rules_text: Flying
+When this creature enters, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i] => Flying
+When this creature enters, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Neverfolk Sentinel
+rules_text: {2}{U}: Examine [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i] => {2}{U}: Examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+pt: 2/5 => 3/4
+
+Neverfolk Stargazer
+cost: {2}{U} => {3}{U}
+rules_text: When this creature enters, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+The first spell you cast from exile each turn costs {2} less to cast. => When this creature enters, examine twice. [i](To examine, exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+The first spell you cast from exile each turn costs {2} less to cast.
+pt: 2/3 => 3/3
+
+Pensive, the Introspective
+pt: 1/1 => 1/4
+
+Abyssal Blade
+
+Angst
+
+Clandestine Thaumaturge
+
+Dark Duality
+
+Deathshifter
+
+Dissenter's Companion
+
+Dissenter's Blow
+
+Dread Bringer
+
+Shadowcaller
+
+Dread Renegade
+
+Anguish
+
+Expulsion of Identity
+
+Fall of the Library
+
+Flayed Husk
+
+Foretold Findings
+
+Frightwing
+
+Guardian of the Abyss
+
+Hallowed Caretaker
+
+Horrifying Visage
+
+Dusk Prowlers
+
+Looming Sentry
+
+Mantra of Resolve
+
+Noxious Finality
+
+Oppress
+
+Pulled from Beneath
+
+Reckless Swordmaster
+
+Resolve
+
+Scavenging Drake
+
+Grasp of the Abyss
+
+Shadowsire
+
+Spite, the Relentless
+
+Thoughtspill
+
+Tortured Husk
+
+Vicious Disfigurement
+
+The Nomad's Strike
+
+The Grand Forsaker
+
+Sulking Magus
+
+Strength of Resolve
+
+Steadfast Swordsman
+rules_text: {1}, Sacrifice another creature: This creature gains indestructible until end of turn. => {1}, Sacrifice another creature: This creature gains indestructible until end of turn. Tap it.
+
+Afflatus
+
+Aether Phoenix
+
+Augur Patrol
+pt: 4/4 => 4/5
+
+Blood Seer
+rules_text: When this creature enters, discard a card, then examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+Blood Seer gets +1/+0 as long as you own two or more examined cards. => When this creature enters, discard a card, then examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+Blood Seer gets +1/+0 as long as you own two or more examined cards.
+
+Claim of the Aether
+
+Contemplate Chaos
+
+Crimson Scourge
+
+Drape in Blood
+
+Entropic Blast
+
+Entropic Creation
+
+Entropic Visionary
+
+Erratic Spellweaver
+
+Fiery Oracle
+rules_text: At the beginning of your end step, if you have no cards in your hand, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i] => At the beginning of your end step, if you have one or fewer cards in your hand, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i]
+
+Fracture
+
+Frontier Observer
+
+Seer's Charge
+
+Overwhelm
+
+Mantra of Possibility
+
+Meandering Shrieker
+
+Possibility
+
+Prophetic Hunter
+
+Ruthless Hunter
+
+Scrutinize
+cost: {1}{R} => {R}
+rules_text: When this enchantment enters, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+Whenever you cast a spell from exile, this enchantment deals 1 damage to each opponent. => When this enchantment enters, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+Whenever you cast a spell from exile, this enchantment deals 1 damage to each opponent.
+
+Searing Breath
+
+Sedition
+
+Seek the Aether
+cost: {3}{R} => {2}{R}
+rules_text: Discard your hand, then examine seven times. [i](To examine, exile the top card of your library. You may cast it by paying an additional {2}.)[/i] => Discard your hand, then examine seven times. [i](To examine, exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+
+Petitioner of the Past
+pt: 2/1 => 3/1
+
+Seer Attendant
+rules_text: Whenever this creature attacks, discard a card, then examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i] => Whenever this creature attacks, discard a card, then examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Seer Swiftblade
+
+Seize Opportunities
+
+Sentinel Seer
+
+Single Out
+
+Search the Grimoires
+
+Unravel the Strings
+cost: {3}{R} => {2}{R}
+rules_text: Create two 1/1 red Wizard creature tokens.
+You follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i] => Create two 1/1 red Wizard creature tokens.
+Discard a card. You follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i]
+
+Unrelenting Charge
+
+Volatile Behavior
+
+Wandering Zealot
+rules_text: {R}, Discard a card: Examine [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i] => {R}, Discard a card: Examine [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Virulent Shower
+
+Aimless Wanderer
+
+Unbridled Creation
+rules_text: At the beginning of your upkeep, examine. Creature spells you cast cost {1} less to cast for each examined card you own. [i](To examine, exile the top card of your library. You may cast it by paying an additional {2}.)[/i] => At the beginning of your upkeep, examine. Creature spells you cast cost {1} less to cast for each examined card you own. [i](To examine, exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+
+Blessed by Nature
+
+Blight Maw
+
+Blooming Sprite
+rules_text: {1}, Sacrifice another creature: Put a +1/+1 counter on Blooming Sprite. You gain 1 life. => Sacrifice another creature: Put a +1/+1 counter on this creature. You gain 1 life.
+
+Blossom
+
+Guardian of Harmony
+rules_text: Vigilance
+At the beginning of your upkeep, create a 1/1 green Saproling creature token. => Vigilance
+When this creature enters or at the beginning of your upkeep, create a 1/1 green Saproling creature token.
+pt: 3/4 => 3/3
+
+Burgeoning Harbinger
+
+Curious Remembrance
+
+Curious Wanderer
+rules_text: When this creature dies, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i] => When this creature dies, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Feast
+
+Fountain of Wisdom
+
+Frolicking Neverfolk
+rules_text: When this creature enters, examine. If you examined a land, you may put it into your hand. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i] => When this creature enters, examine. If you examined a land, you may put it into your hand. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Harmonic Scholar
+cost: {2}{G} => {1}{G}{G}
+rules_text: Whenever you cast a creature spell, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i] => Whenever you cast a creature spell, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Harmony
+
+Immense Irregularity
+
+Imposing Stature
+
+Lost Savior
+
+Mantra of Harmony
+
+Neverfolk Hermit
+pt: 0/2 => 0/1
+
+Nourish, the Revitalized
+
+Potence, Wild Preacher
+rules_text: At the beginning of your upkeep, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+This creature gets +1/+1 for each examined card you own.
+Whenever you play an examined card, put a +1/+1 counter on this creature. => At the beginning of your upkeep, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+This creature gets +1/+1 for each examined card you own.
+Whenever you play an examined card, put a +1/+1 counter on this creature.
+
+Primal Regent
+
+Ravager
+type: Creature — Weird Beast => Creature — Weird
+
+Percipience
+
+Roaming Husk
+pt: 2/3 => 3/3
+
+Safekeeper
+
+Solitary Sprite
+
+Sprouting Burst
+
+Stalking Husk
+
+Staunch Huntsman
+
+Terrifying Presence
+
+Thirsting Neverfolk
+rules_text: Trample
+When this creature enters, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+Whenever you play an examined card, put a +1/+1 counter on this creature. => Trample
+When this creature enters, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+Whenever you play a card from exile, put a +1/+1 counter on this creature.
+
+Towering Sovereign
+
+Tracker's Expertise
+
+Turn to Soil
+type: Sorcery => Instant
+
+Unforgiving Predacity
+
+Voracious Grasp
+
+Insatiable Husk
+rules_text: [i](This creature has no creature types.)[/i]
+Trample
+{1}, Sacrifice another creature: This creature gets +2/+2 until end of turn. => [i](This creature has no creature types.)[/i]
+This creature can't be blocked by creatures with power 2 or less.
+Sacrifice another creature: This creature gets +2/+2 until end of turn.
+
+Yellow Visionary
+rules_text: When this creature enters, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i] => When this creature enters, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Blazing Vanguard
+
+Call of Harmony
+
+Chaos Weaver
+
+Disarray, the Opposer
+rules_text: Trample
+Whenever an opponent casts a noncreature spell, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+Whenever this creature deals combat damage to an opponent, the next spell you cast this turn costs {2} less to cast. => Trample
+Whenever an opponent casts a noncreature spell, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+Whenever this creature deals combat damage to an opponent, the next spell you cast this turn costs {2} less to cast.
+
+Festering Druid
+
+Fiery Inquisitor
+
+Gliding Watcher
+cost: {2}{W}{U} => {1}{W}{U}
+
+Hallowed Speaker
+
+Impassioned Oracle
+cost: {2}{U}{R} => {1}{U}{R}
+rules_text: Whenever you cast an instant or sorcery from your hand, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+Whenever you cast an instant or sorcery from exile, draw a card. => Whenever you cast an instant or sorcery spell from your hand, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+Whenever you cast an instant or sorcery spell from exile, draw a card.
+
+Insurgent Commander
+
+Merciless Thaumaturge
+
+Pitiful End
+
+Preacher of Unity
+
+Soothing Oracle
+
+Reverie, the Dreamshaper
+rules_text: Whenever a land you control enters, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+Spells you cast from exile with mana value 5 or greater cost {4} less to cast. => Whenever a land you control enters, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+Spells you cast from exile with mana value 5 or greater cost {4} less to cast.
+
+Vehement Neverfolk
+rules_text: Whenever this creature deals combat damage to an opponent, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+Whenever you cast an examined spell, this creature can't be blocked this turn by creatures with mana value less than that spell's mana value. => Whenever this creature deals combat damage to an opponent, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+Whenever you cast an examined spell, this creature can't be blocked this turn by creatures with mana value less than that spell's mana value.
+
+War Seers
+rules_text: Flash
+At the beginning of your end step, if you haven't cast a spell this turn, scry 3. => Flash
+Menace
+At the beginning of your end step, if you haven't cast a spell this turn, scry 2.
+
+Warped Seer
+
+World Scholar
+rules_text: When this creature enters, examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+Whenever you cast an examined spell, you may put an examined land you own onto the battlefield. => When this creature enters, examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+Whenever you cast an examined spell, you may put an examined land you own onto the battlefield.
+
+Celestial Compass
+
+Hallowed Halberd
+
+Locked Sigil
+
+Righteous Edge
+
+Tome of Memories
+
+Abyssal Wastes
+
+Bog of the Forgotten
+
+Desolate Battleground
+
+Forgotten Deity
+
+Forsaken Champion
+
+Husk Brute
+
+Husk Piker
+
+Terramorphic Expanse
+
+The Sparkless
+
+Twisting Ridge
+
+Unraveling Edge
+rules_text: This land enters tapped.
+{T}: Add {G} or {U}.
+{2}{G}{U}, {T}: Examine. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i] => This land enters tapped.
+{T}: Add {G} or {U}.
+{2}{G}{U}, {T}: Examine. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Vacant Seer
+
+Wretched Woods
+
+Herald of Unity
+
+Teachings of the Forgotten
+cost: {2}{U} => {1}{U}
+rules_text: Examine three times. [i](To examine, exile the top card of your library. You may cast it by paying an additional {2}.)[/i] => Examine three times. [i](To examine, exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+
+Gaze Upon the Ensuing
+rules_text: Look at the top five cards of your library. Put two of them into your hand and the rest into your graveyard. => Look at the top six cards of your library. Put two of them into your hand and the rest on the bottom of your graveyard in any order.
+
+Champion of Resolve
+rules_text: When this creature enters, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i]
+Whenever you draw a card, you lose 1 life. => Lifelink
+When this creature enters, you lose 1 life for each card om your hand, then you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i]
+
+Perturbing Reflection
+
+Courier of Vision
+
+Ignite, the Spontaneous
+rules_text: Haste
+Whenever this creature deals combat damage to an opponent, examine. That card costs {2} less to cast this turn. [i](Exile the top card of your library. You may play it by paying an additional {2}.)[/i] => Haste
+Whenever this creature deals combat damage to an opponent, examine. That card costs {2} less to cast this turn. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Stalking Spawn
+
+Unity
+
+Left in Dismay
+
+Beheaded, the Nomad
+
+Mantra of Vision
+
+Dog
+
+Wizard
+
+Husk
+
+Soldier
+
+Saproling
+
+Weird
+
+Follow the Path
+
+Examine
+
+Dreamwatcher
+
+Enduring Vigor
+
+Fateweaver
+
+Paragon of Parity
+rules_text: When this creature enters, create a 1/1 green Saproling creature token.
+This creature and other creatures you control have base power and toughness equal to the number of creatures you control. => This creature and other creatures you control have base power and toughness equal to the number of creatures you control.
+When this creature enters, create a 1/1 green Saproling creature token.
+
+Subject of Suffering
+
+Presence of Perplexity
+rules_text: If you would draw one or more cards, put the cards in your hand on the bottom of your library in any order, then draw cards equal to the number of cards you put on the bottom plus the number of cards you would draw. => Ward {3}
+If you would draw one or more cards, instead put the cards in your hand on the bottom of your library in any order, then draw cards equal to the number of cards you put on the bottom plus the number of cards you would draw.
+
+Herald of Havoc
+
+Returning from Victory
+
+Towering Defector
+
+Oddity of Obsession
+
+Zestless
+rules_text: Enchant creature
+Enchanted creature loses all abilities and creature types, is colorless, and has base power and toughness 1/1. => Flash
+Enchant creature
+When this enchantment enters, remove enchanted creature from combat.
+Enchanted creature loses all abilities and creature types, is colorless, and has base power and toughness 1/1.
+
+Conveyance, Voice of Aether
+rules_text: At the beginning of your end step, exile an instant or sorcery card chosen at random from your graveyard. You may cast a copy of it until the beginning of your next end step. If there are four or more instant and/or sorcery cards in your graveyard, you may cast the copy without paying its mana cost. => At the beginning of your end step, exile an instant or sorcery card chosen at random from your graveyard. You may cast it for as long as it remains exiled. If it would be put into your graveyard, put it on the bottom of your library instead.
+If there are four or more instant and/or sorcery cards in your graveyard, you may pay {0} rather than pay the mana costs of instant and sorcery spells you cast from exile.
+
+Expendable Husk
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.
