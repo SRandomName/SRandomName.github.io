@@ -1,4 +1,229 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Abandonment of Will
+
+Blessing of Unity
+
+Candlebearer
+
+Deployed Husks
+
+Disarmament
+
+White Vanguard
+
+Dissenters' Wrath
+
+Dormancy
+
+Fade Into Oblivion
+
+Forbiddance
+
+Forsake
+
+Hallowed Slayer
+
+Loyal Detainer
+
+Purpose
+
+Renowned Guardian
+
+Resolute Dissenter
+
+Venerable Inquisitor
+
+Venerated Wings
+
+Wayward Wanderer
+
+Abrogate
+
+Augur of Tragedies
+
+Drag Through Time
+
+Herald of the Aether
+
+Anticipate
+
+Probe the Path
+
+Neverfolk Sentinel
+
+Pin Down
+
+Vision
+cost: {2}{U}{U} => {3}{U}{U}
+
+Servant of Recurrence
+
+Skybreacher
+
+Spell Capture
+
+Temporal Journey
+
+Memory Lapse
+
+Unravelling
+
+Violation of Reason
+
+Void Form
+
+Winged Anomaly
+
+Abyssal Blade
+
+Angst
+
+Dissenter's Blow
+
+Dread Bringer
+
+Anguish
+
+Fall of the Library
+
+Dusk Prowlers
+
+Noxious Finality
+
+Oppress
+
+Reckless Swordmaster
+
+Thoughtspill
+
+The Nomad's Strike
+
+Strength of Resolve
+
+Steadfast Swordsman
+
+Aether Phoenix
+
+Contemplate Chaos
+
+Crimson Scourge
+
+Drape in Blood
+
+Entropic Visionary
+
+Erratic Spellweaver
+
+Overwhelm
+
+Meandering Shrieker
+
+Petitioner of the Past
+
+Seer Attendant
+
+Unrelenting Charge
+
+Volatile Behavior
+
+Wandering Zealot
+
+Aimless Wanderer
+
+Blessed by Nature
+
+Blooming Sprite
+
+Guardian of Harmony
+
+Burgeoning Harbinger
+
+Curious Remembrance
+
+Curious Wanderer
+
+Fountain of Wisdom
+
+Immense Irregularity
+
+Imposing Stature
+
+Lost Savior
+
+Primal Regent
+
+Ravager
+
+Percipience
+
+Roaming Husk
+
+Safekeeper
+
+Sprouting Burst
+
+Staunch Huntsman
+
+Turn to Soil
+
+Voracious Grasp
+
+Blazing Vanguard
+
+Call of Harmony
+
+Gliding Watcher
+
+Pitiful End
+
+Hallowed Halberd
+
+Bog of the Forgotten
+
+Forgotten Deity
+
+Forsaken Champion
+
+Husk Piker
+
+The Sparkless
+
+Vacant Seer
+
+Herald of Unity
+
+Teachings of the Forgotten
+
+Gaze Upon the Ensuing
+rules_text: Look at the top six cards of your library. Put two of them into your hand and the rest on the bottom of your graveyard in any order. => Look at the top six cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.
+
+Perturbing Reflection
+
+Stalking Spawn
+rules_text: This creature can't attack unless you've cast a spell with odd mana value this turn or control another permanent with an odd mana value. => This creature can't attack unless you've cast a spell with odd mana value this turn or control a permanent with an odd mana value.
+
+Left in Dismay
+
+Roads Untravelled
+
+Subject of Suffering
+
+Herald of Havoc
+
+Returning from Victory
+
+Glimpse at a New World
+
+Dreadful Diviner
+
+Expendable Husk
+
+
+VERSION 5 CHANGELOG
 ====================
 
 No changes.

@@ -573,7 +573,7 @@
 		{
 			"name": "Vision",
 			"rarity": "mythic",
-			"mana_cost": "{2}{U}{U}",
+			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — God",
 			"collector_number": "91",
 			"image_uris": {

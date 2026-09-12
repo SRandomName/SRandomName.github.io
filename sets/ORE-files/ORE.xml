@@ -5,7 +5,7 @@
 			<name>ORE</name>
 			<longname></longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-11</releasedate>
+			<releasedate>2026-09-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1007,8 +1007,8 @@ When this creature dies, shuffle it into its owner&apos;s library.</text>
 				<side>front</side>
 				<type>Legendary Creature — God</type>
 				<maintype>Creature</maintype>
-				<manacost>2UU</manacost>
-				<cmc>4</cmc>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>3/5</pt>
@@ -3926,7 +3926,7 @@ When this creature enters, put a +1/+1 counter on each of up to two target creat
 		</card>
 		<card>
 			<name>Gaze Upon the Ensuing</name>
-			<text>Look at the top six cards of your library. Put two of them into your hand and the rest on the bottom of your graveyard in any order.</text>
+			<text>Look at the top six cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.</text>
 			<set rarity="uncommon" picurl="https://SRandomName.github.io/sets/ORE-files/img/228.png" num="63">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4013,7 +4013,7 @@ Whenever this creature deals combat damage to an opponent, examine. That card co
 		</card>
 		<card>
 			<name>Stalking Spawn</name>
-			<text>This creature can&apos;t attack unless you&apos;ve cast a spell with odd mana value this turn or control another permanent with an odd mana value.</text>
+			<text>This creature can&apos;t attack unless you&apos;ve cast a spell with odd mana value this turn or control a permanent with an odd mana value.</text>
 			<set rarity="uncommon" picurl="https://SRandomName.github.io/sets/ORE-files/img/233.png" num="176">ORE</set>
 			<prop>
 				<layout>normal</layout>
