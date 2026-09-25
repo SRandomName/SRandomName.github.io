@@ -964,7 +964,7 @@ The first spell you cast from exile each turn costs {2} less to cast.</text>
 		</card>
 		<card>
 			<name>Pensive, the Introspective</name>
-			<text>Whenever you cast an instant and sorcery from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy.</text>
+			<text>Whenever you cast an instant or sorcery spell from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/55.png" num="76">ORE</set>
 			<prop>
 				<layout>normal</layout>

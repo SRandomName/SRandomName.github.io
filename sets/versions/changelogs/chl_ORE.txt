@@ -1,4 +1,13 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Pensive, the Introspective
+rules_text: Whenever you cast an instant and sorcery from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy. => Whenever you cast an instant or sorcery spell from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Mental Lapse added.
