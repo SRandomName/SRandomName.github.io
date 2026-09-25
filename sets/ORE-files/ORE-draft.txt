@@ -2893,7 +2893,109 @@
 	4 Roads Untravelled
 	4 Dreamwatcher
 	4 Enduring Vigor
-[common(9)]
+[common(6)]
+	8 Angel of the Lost
+	8 Disarmament
+	8 White Vanguard
+	8 Dissenters' Wrath
+	8 Dormancy
+	8 Forsake
+	8 Hallowed Slayer
+	8 Loyal Detainer
+	8 On Patrol
+	8 Purpose
+	8 Rebellious Angel
+	8 Renowned Guardian
+	8 Resolute Dissenter
+	8 Stalwart Cleric
+	8 Inquisitor's Strike
+	8 Venerated Wings
+	8 Wayward Wanderer
+	8 Winged Husk
+	8 Magisterial Sphinx
+	8 Devoted Seer
+	8 Drag Through Time
+	8 Obstructing Seer
+	8 Anticipate
+	8 Neverfolk Loreseeker
+	8 Neverfolk Sentinel
+	8 Pin Down
+	8 Seer Detainer
+	8 Skybreacher
+	8 Spell Capture
+	8 Mental Lapse
+	8 Tyrant of Depths
+	8 Violation of Reason
+	8 Void Form
+	8 Wailing Oracle
+	8 Winged Anomaly
+	8 Abyssal Blade
+	8 Dissenter's Companion
+	8 Dread Bringer
+	8 Expulsion of Identity
+	8 Foretold Findings
+	8 Hallowed Caretaker
+	8 Horrifying Visage
+	8 Dusk Prowlers
+	8 Noxious Finality
+	8 Oppress
+	8 Pulled from Beneath
+	8 Reckless Swordmaster
+	8 Scavenging Drake
+	8 Shadowsire
+	8 Tortured Husk
+	8 Vicious Disfigurement
+	8 Sulking Magus
+	8 Strength of Resolve
+	8 Steadfast Swordsman
+	8 Augur Patrol
+	8 Blood Seer
+	8 Drape in Blood
+	8 Entropic Visionary
+	8 Erratic Spellweaver
+	8 Frontier Observer
+	8 Overwhelm
+	8 Meandering Shrieker
+	8 Scrutinize
+	8 Searing Breath
+	8 Sedition
+	8 Seer Swiftblade
+	8 Sentinel Seer
+	8 Single Out
+	8 Search the Grimoires
+	8 Unravel the Strings
+	8 Unrelenting Charge
+	8 Volatile Behavior
+	8 Wandering Zealot
+	8 Blessed by Nature
+	8 Blight Maw
+	8 Blooming Sprite
+	8 Blossom
+	8 Curious Wanderer
+	8 Feast
+	8 Frolicking Neverfolk
+	8 Imposing Stature
+	8 Lost Savior
+	8 Neverfolk Hermit
+	8 Roaming Husk
+	8 Solitary Sprite
+	8 Stalking Husk
+	8 Terrifying Presence
+	8 Towering Sovereign
+	8 Tracker's Expertise
+	8 Turn to Soil
+	8 Unforgiving Predacity
+	8 Yellow Visionary
+	8 Celestial Compass
+	8 Hallowed Halberd
+	8 Locked Sigil
+	8 Terramorphic Expanse
+	8 Vacant Seer
+	8 Herald of Unity
+	8 Teachings of the Forgotten
+	8 Zestless
+	8 Expendable Husk
+[common | masterpiece(1)]
 	8 Angel of the Lost
 	8 Disarmament
 	8 White Vanguard
@@ -3256,3 +3358,264 @@
 	1 Conveyance, Voice of Aether
 	12 Expendable Husk
 	2 Compassion
+[wildcard(1)]
+	7 Abandonment of Will
+	15 Angel of Perseverance
+	6 Angel of the Lost
+	15 Blessing of Unity
+	15 Candlebearer
+	15 Dedicated Insurgent
+	15 Deployed Husks
+	6 Disarmament
+	6 White Vanguard
+	6 Dissenters' Wrath
+	6 Dormancy
+	7 Being of Equilibrium
+	15 Fade Into Oblivion
+	15 Forbiddance
+	6 Forsake
+	7 Glory, the Steadfast
+	15 Guide of the Forsaken
+	6 Hallowed Slayer
+	15 Howling Fledgeling
+	15 Impeccable Skill
+	6 Loyal Detainer
+	7 Mantra of Unity
+	6 On Patrol
+	6 Purpose
+	6 Rebellious Angel
+	7 Regret, Vision's Demise
+	15 Renegade Marshal
+	6 Renowned Guardian
+	15 Repressive Skyguard
+	6 Resolute Dissenter
+	6 Stalwart Cleric
+	6 Inquisitor's Strike
+	7 The Pristine Overseer
+	7 Venerable Inquisitor
+	6 Venerated Wings
+	6 Wayward Wanderer
+	6 Winged Husk
+	15 Abrogate
+	15 Aether Tides
+	6 Magisterial Sphinx
+	15 Augur of Tragedies
+	4 Consult the Seers
+	6 Devoted Seer
+	15 Discerning Neverfolk
+	6 Drag Through Time
+	15 Gliding Sage
+	15 Herald of the Aether
+	6 Obstructing Seer
+	15 Library Sentry
+	6 Anticipate
+	15 Probe the Path
+	6 Neverfolk Loreseeker
+	6 Neverfolk Sentinel
+	15 Neverfolk Stargazer
+	15 Peer into the Unknown
+	7 Pensive, the Introspective
+	6 Pin Down
+	4 Vision
+	4 Seeker, a Spark Reborn
+	6 Seer Detainer
+	7 Servant of Recurrence
+	6 Skybreacher
+	6 Spell Capture
+	7 Temporal Journey
+	7 The Prime Augur
+	6 Mental Lapse
+	6 Tyrant of Depths
+	15 Unravelling
+	6 Violation of Reason
+	6 Void Form
+	6 Wailing Oracle
+	6 Winged Anomaly
+	6 Abyssal Blade
+	15 Angst
+	15 Clandestine Thaumaturge
+	7 Dark Duality
+	7 Deathshifter
+	6 Dissenter's Companion
+	15 Dissenter's Blow
+	6 Dread Bringer
+	15 Shadowcaller
+	15 Dread Renegade
+	15 Anguish
+	6 Expulsion of Identity
+	4 Fall of the Library
+	15 Flayed Husk
+	6 Foretold Findings
+	15 Frightwing
+	15 Guardian of the Abyss
+	6 Hallowed Caretaker
+	6 Horrifying Visage
+	6 Dusk Prowlers
+	15 Looming Sentry
+	7 Mantra of Resolve
+	6 Noxious Finality
+	6 Oppress
+	6 Pulled from Beneath
+	6 Reckless Swordmaster
+	4 Resolve
+	6 Scavenging Drake
+	15 Grasp of the Abyss
+	6 Shadowsire
+	7 Spite, the Relentless
+	15 Thoughtspill
+	6 Tortured Husk
+	6 Vicious Disfigurement
+	15 The Nomad's Strike
+	7 The Grand Forsaker
+	6 Sulking Magus
+	6 Strength of Resolve
+	6 Steadfast Swordsman
+	15 Afflatus
+	7 Aether Phoenix
+	6 Augur Patrol
+	6 Blood Seer
+	7 Claim of the Aether
+	15 Contemplate Chaos
+	7 Crimson Scourge
+	6 Drape in Blood
+	15 Entropic Blast
+	7 Entropic Creation
+	6 Entropic Visionary
+	6 Erratic Spellweaver
+	15 Fiery Oracle
+	15 Fracture
+	6 Frontier Observer
+	15 Seer's Charge
+	6 Overwhelm
+	7 Mantra of Possibility
+	6 Meandering Shrieker
+	4 Possibility
+	15 Prophetic Hunter
+	15 Ruthless Hunter
+	6 Scrutinize
+	6 Searing Breath
+	6 Sedition
+	15 Seek the Aether
+	15 Petitioner of the Past
+	15 Seer Attendant
+	6 Seer Swiftblade
+	4 Seize Opportunities
+	6 Sentinel Seer
+	6 Single Out
+	6 Search the Grimoires
+	6 Unravel the Strings
+	6 Unrelenting Charge
+	6 Volatile Behavior
+	6 Wandering Zealot
+	15 Virulent Shower
+	15 Aimless Wanderer
+	4 Unbridled Creation
+	6 Blessed by Nature
+	6 Blight Maw
+	6 Blooming Sprite
+	6 Blossom
+	15 Guardian of Harmony
+	4 Burgeoning Harbinger
+	15 Curious Remembrance
+	6 Curious Wanderer
+	6 Feast
+	7 Fountain of Wisdom
+	6 Frolicking Neverfolk
+	15 Harmonic Scholar
+	4 Harmony
+	15 Immense Irregularity
+	6 Imposing Stature
+	6 Lost Savior
+	7 Mantra of Harmony
+	6 Neverfolk Hermit
+	7 Nourish, the Revitalized
+	7 Potence, Wild Preacher
+	7 Primal Regent
+	7 Ravager
+	15 Percipience
+	6 Roaming Husk
+	15 Safekeeper
+	6 Solitary Sprite
+	7 Sprouting Burst
+	6 Stalking Husk
+	15 Staunch Huntsman
+	6 Terrifying Presence
+	15 Thirsting Neverfolk
+	6 Towering Sovereign
+	6 Tracker's Expertise
+	6 Turn to Soil
+	6 Unforgiving Predacity
+	15 Voracious Grasp
+	15 Insatiable Husk
+	6 Yellow Visionary
+	7 Blazing Vanguard
+	7 Call of Harmony
+	7 Chaos Weaver
+	7 Disarray, the Opposer
+	15 Festering Druid
+	15 Fiery Inquisitor
+	15 Gliding Watcher
+	7 Hallowed Speaker
+	15 Impassioned Oracle
+	15 Insurgent Commander
+	15 Merciless Thaumaturge
+	7 Pitiful End
+	15 Preacher of Unity
+	7 Soothing Oracle
+	7 Reverie, the Dreamshaper
+	15 Vehement Neverfolk
+	15 War Seers
+	7 Warped Seer
+	15 World Scholar
+	6 Celestial Compass
+	6 Hallowed Halberd
+	6 Locked Sigil
+	7 Righteous Edge
+	15 Tome of Memories
+	7 Abyssal Wastes
+	15 Bog of the Forgotten
+	7 Desolate Battleground
+	7 Forgotten Deity
+	15 Forsaken Champion
+	15 Husk Brute
+	15 Husk Piker
+	6 Terramorphic Expanse
+	7 The Sparkless
+	7 Twisting Ridge
+	7 Unraveling Edge
+	6 Vacant Seer
+	7 Wretched Woods
+	6 Herald of Unity
+	6 Teachings of the Forgotten
+	15 Gaze Upon the Ensuing
+	7 Champion of Resolve
+	7 Perturbing Reflection
+	7 Courier of Vision
+	7 Ignite, the Spontaneous
+	15 Stalking Spawn
+	4 Unity
+	15 Left in Dismay
+	4 Beheaded, the Nomad
+	7 Reckoning, Crimson Prophet
+	7 Mantra of Vision
+	15 Roads Untravelled
+	15 Dreamwatcher
+	15 Enduring Vigor
+	4 Fateweaver
+	4 Paragon of Parity
+	4 Subject of Suffering
+	4 Presence of Perplexity
+	4 Herald of Havoc
+	4 Returning from Victory
+	7 Towering Defector
+	4 Oddity of Obsession
+	6 Zestless
+	7 Glimpse at a New World
+	7 Shard of the Future
+	7 Shattered Identity
+	7 Dreadful Diviner
+	7 Acolyte of the Path
+	7 Font of Fecundity
+	4 Conveyance, Voice of Aether
+	6 Expendable Husk
+	7 Compassion
