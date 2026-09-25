@@ -483,7 +483,7 @@
 		{
 			"name": "Library Sentry",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Wizard Soldier",
 			"collector_number": "67",
 			"image_uris": {
@@ -651,7 +651,7 @@
 			}
 		},
 		{
-			"name": "Memory Lapse",
+			"name": "Mental Lapse",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
@@ -843,7 +843,7 @@
 		{
 			"name": "Fall of the Library",
 			"rarity": "mythic",
-			"mana_cost": "{1}{B}{B}{B}",
+			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "109",
 			"image_uris": {
@@ -1403,8 +1403,8 @@
 		{
 			"name": "Seize Opportunities",
 			"rarity": "mythic",
-			"mana_cost": "{3}{R}{R}",
-			"type": "Sorcery",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Enchantment",
 			"collector_number": "173",
 			"image_uris": {
 				"en": "https://SRandomName.github.io/sets/ORE-files/img/140.png"
@@ -1904,7 +1904,7 @@
 			"name": "Call of Harmony",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "228",
 			"image_uris": {
 				"en": "https://SRandomName.github.io/sets/ORE-files/img/190.png"
@@ -2653,7 +2653,7 @@
 		{
 			"name": "Shard of the Future",
 			"rarity": "rare",
-			"mana_cost": "{3}",
+			"mana_cost": "{4}",
 			"type": "Artifact",
 			"collector_number": "252",
 			"image_uris": {
@@ -2923,7 +2923,7 @@
 	8 Seer Detainer
 	8 Skybreacher
 	8 Spell Capture
-	8 Memory Lapse
+	8 Mental Lapse
 	8 Tyrant of Depths
 	8 Violation of Reason
 	8 Void Form
@@ -3061,7 +3061,7 @@
 	12 Spell Capture
 	2 Temporal Journey
 	2 The Prime Augur
-	12 Memory Lapse
+	12 Mental Lapse
 	12 Tyrant of Depths
 	6 Unravelling
 	12 Violation of Reason

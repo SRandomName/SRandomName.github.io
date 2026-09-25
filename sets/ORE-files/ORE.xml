@@ -3,15 +3,15 @@
 	<sets>
 		<set>
 			<name>ORE</name>
-			<longname></longname>
+			<longname>Orestan</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-12</releasedate>
+			<releasedate>2026-09-25</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Abandonment of Will</name>
-			<text>Exile each creature with one or more creature types. For each creature exiled this way, its controller creates a 1/1 colorless creature token. (They have no creature types.)</text>
+			<text>Exile each creature with one or more creature types. For each creature exiled this way, its controller creates a 1/1 colorless creature token named Husk. (They have no creature types.)</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/0.png" num="9">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -46,7 +46,7 @@ When this creature enters, put a +1/+1 counter on each other creature you contro
 		<card>
 			<name>Angel of the Lost</name>
 			<text>Flying
-When this creature enters, create a 1/1 colorless creature token. (It has no creature types.)</text>
+When this creature enters, create a 1/1 colorless creature token named Husk. (It has no creature types.)</text>
 			<set rarity="common" picurl="https://SRandomName.github.io/sets/ORE-files/img/2.png" num="11">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -114,7 +114,7 @@ Whenever this creature or another creature you control enters, scry 1.</text>
 		</card>
 		<card>
 			<name>Deployed Husks</name>
-			<text>Create three 1/1 colorless creature tokens. (They have no creature types.)</text>
+			<text>Create three 1/1 colorless creature tokens named Husk. (They have no creature types.)</text>
 			<set rarity="uncommon" picurl="https://SRandomName.github.io/sets/ORE-files/img/6.png" num="17">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -198,7 +198,7 @@ Enchanted creature can&apos;t attack, block or be sacrificed.</text>
 		<card>
 			<name>Being of Equilibrium</name>
 			<text>Vigilance
-At the beginning of your upkeep, each player with the fewest or tied for the fewest cards in their hand each draw a card.</text>
+At the beginning of your upkeep, each player with the fewest or tied for the fewest cards in their hand draws a card.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/11.png" num="12">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -233,7 +233,7 @@ At the beginning of your upkeep, each player with the fewest or tied for the few
 		</card>
 		<card>
 			<name>Forbiddance</name>
-			<text>Counter target noncreature spell unless its controller pays {2}. If that spell is countered this way, put it on top of its owner&apos;s library instead of into that player&apos;s graveyard.</text>
+			<text>Counter target noncreature spell unless its controller pays {2}. If that spell is countered this way, its owner puts it on the top or the bottom of their library instead of into their graveyard.</text>
 			<set rarity="uncommon" picurl="https://SRandomName.github.io/sets/ORE-files/img/13.png" num="22">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -249,7 +249,7 @@ At the beginning of your upkeep, each player with the fewest or tied for the few
 		</card>
 		<card>
 			<name>Forsake</name>
-			<text>Exile target creature. Create a 1/1 colorless creature token. (It has no creature types.)</text>
+			<text>Exile target creature. Create a 1/1 colorless creature token named Husk. (It has no creature types.)</text>
 			<set rarity="common" picurl="https://SRandomName.github.io/sets/ORE-files/img/14.png" num="23">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -440,7 +440,7 @@ Martyr 3 (When this creature dies, you may exile it to return a creature with ma
 		<card>
 			<name>Regret, Vision&apos;s Demise</name>
 			<text>Flying, lifelink
-When this creature enters, exile up to one target creature. Its controller creates a 1/1 colorless creature token. (The token has no creature types.)</text>
+When this creature enters, exile up to one target creature. Its controller creates a 1/1 colorless creature token named Husk. (The token has no creature types.)</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/25.png" num="39">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -853,11 +853,11 @@ When this creature enters, you follow the path. (At the beginning of your upkeep
 				<side>front</side>
 				<type>Creature — Wizard Soldier</type>
 				<maintype>Creature</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -964,7 +964,7 @@ The first spell you cast from exile each turn costs {2} less to cast.</text>
 		</card>
 		<card>
 			<name>Pensive, the Introspective</name>
-			<text>Whenever you cast an instant and sorcery from anywhere other than your hand, you may copy it. If you do you may choose new targets for the copy</text>
+			<text>Whenever you cast an instant and sorcery from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/55.png" num="76">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -975,7 +975,7 @@ The first spell you cast from exile each turn costs {2} less to cast.</text>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/4</pt>
+				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1105,7 +1105,7 @@ When this creature enters, draw a card.</text>
 		</card>
 		<card>
 			<name>Temporal Journey</name>
-			<text>Take an extra turn after this one. During that turn you may look at the top card of your library anytime and play the top card of your library.
+			<text>Take an extra turn after this one. During that turn, you may look at the top card of your library any time, and you may play the top card of your library.
 Exile Temporal Journey.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/63.png" num="87">ORE</set>
 			<prop>
@@ -1139,8 +1139,8 @@ If you would draw one or more cards, instead scry X, where X is the number of ca
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Memory Lapse</name>
-			<text>Counter target spell. If that spell is countered this way, put it on top of its owner&apos;s library instead of into that player&apos;s graveyard.</text>
+			<name>Mental Lapse</name>
+			<text>Counter target spell unless its controller pays {3}. If that spell is countered this way, its owner puts it on the top or the bottom of their library instead of into their graveyard.</text>
 			<set rarity="common" picurl="https://SRandomName.github.io/sets/ORE-files/img/65.png" num="70">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1325,7 +1325,7 @@ At the beginning of your upkeep, if you follow the path, each opponent loses 2 l
 		<card>
 			<name>Deathshifter</name>
 			<text>Menace
-This creature can&apos;t block
+This creature can&apos;t block.
 You may cast this card from your graveyard by exiling another creature card from your graveyard in addition to paying its mana cost.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/76.png" num="102">ORE</set>
 			<prop>
@@ -1446,7 +1446,7 @@ Martyr 4 (When this creature dies, you may exile it to return a creature with ma
 		</card>
 		<card>
 			<name>Expulsion of Identity</name>
-			<text>Target creature gets -1/-1 until end of turn. If that creature would die this turn, exile it instead, then create a 1/1 colorless creature token. (It has no creature types.)</text>
+			<text>Target creature gets -1/-1 until end of turn. If that creature would die this turn, exile it instead, then create a 1/1 colorless creature token named Husk. (It has no creature types.)</text>
 			<set rarity="common" picurl="https://SRandomName.github.io/sets/ORE-files/img/83.png" num="108">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1462,15 +1462,15 @@ Martyr 4 (When this creature dies, you may exile it to return a creature with ma
 		</card>
 		<card>
 			<name>Fall of the Library</name>
-			<text>Each opponent chooses a card in their hand and discard the rest.</text>
+			<text>Target player exiles their hand and graveyard.</text>
 			<set rarity="mythic" picurl="https://SRandomName.github.io/sets/ORE-files/img/84.png" num="109">ORE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1BBB</manacost>
-				<cmc>4</cmc>
+				<manacost>4BBB</manacost>
+				<cmc>7</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -1861,7 +1861,7 @@ When this creature enters, target opponent loses 2 life.</text>
 		</card>
 		<card>
 			<name>The Grand Forsaker</name>
-			<text>When this creature enters, exile each creature card from each graveyard, then create that many 1/1 colorless creature tokens. (They have no creature types.)
+			<text>When this creature enters, exile each creature card from each graveyard, then create that many 1/1 colorless creature tokens named Husk. (They have no creature types.)
 Creatures without creature types you control get +1/+1.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/107.png" num="113">ORE</set>
 			<prop>
@@ -2080,7 +2080,7 @@ Whenever this creature attacks, other attacking creatures you control get +1/+0 
 		</card>
 		<card>
 			<name>Entropic Creation</name>
-			<text>Choose weird, whack or warp at random X times. When you choose weird make a 2/2 red Weird creature token. When you choose whack, Entropic Creation deals 2 damage to any target. When you choose warp, exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
+			<text>Choose weird, whack or warp at random X times. When you choose weird create a 2/2 red Weird creature token. When you choose whack, Entropic Creation deals 2 damage to any target. When you choose warp, exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/120.png" num="149">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2421,21 +2421,19 @@ Creatures you control get +1/+0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Seize Opportunities</name>
-			<text>Kicker—Discard your hand. 
-Exile the top five cards of your library, you may play them this turn.
-If this spell was kicked, add {R}{R}{R}{R}{R}.</text>
+			<text>At the beginning of your upkeep, exile the top three cards of your library, you may play them this turn.</text>
 			<set rarity="mythic" picurl="https://SRandomName.github.io/sets/ORE-files/img/140.png" num="173">ORE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>3RR</manacost>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RRR</manacost>
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Sentinel Seer</name>
@@ -2589,7 +2587,8 @@ Whenever this creature or another creature you control enters or dies, you gain 
 		</card>
 		<card>
 			<name>Unbridled Creation</name>
-			<text>At the beginning of your upkeep, examine. Creature spells you cast cost {1} less to cast for each examined card you own. (To examine, exile the top card of your library. You may play it by paying an additional {2}.)</text>
+			<text>At the beginning of your upkeep, examine. (To examine, exile the top card of your library. You may play it by paying an additional {2}.)
+Creature spells you cast cost {1} less to cast for each examined card you own.</text>
 			<set rarity="mythic" picurl="https://SRandomName.github.io/sets/ORE-files/img/150.png" num="222">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2866,7 +2865,7 @@ When this creature enters or dies, draw a card.</text>
 		<card>
 			<name>Lost Savior</name>
 			<text>(This creature has no creature types.)
-When this creature enters, create a 1/1 colorless creature token. (It has no creature types.)</text>
+When this creature enters, create a 1/1 colorless creature token named Husk. (It has no creature types.)</text>
 			<set rarity="common" picurl="https://SRandomName.github.io/sets/ORE-files/img/166.png" num="201">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2883,8 +2882,7 @@ When this creature enters, create a 1/1 colorless creature token. (It has no cre
 		</card>
 		<card>
 			<name>Mantra of Harmony</name>
-			<text>At the beginning of your upkeep, 
-choose one —
+			<text>At the beginning of your upkeep, choose one —
 • Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 • Target land you control becomes a 3/3 Treefolk creature with haste and vigilance until end of turn.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/167.png" num="202">ORE</set>
@@ -2939,7 +2937,7 @@ Creature tokens you control get +1/+1.</text>
 			<name>Potence, Wild Preacher</name>
 			<text>At the beginning of your upkeep, examine. (Exile the top card of your library. You may play it while exiled by paying an additional {2}.)
 This creature gets +1/+1 for each examined card you own.
-Whenever you play an examined card, put a +1/+1 counter on this creature.</text>
+Whenever you play a card from exile, put a +1/+1 counter on this creature.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/170.png" num="207">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3288,13 +3286,13 @@ When this creature enters, it deals 3 damage to any target and you gain 3 life.<
 		</card>
 		<card>
 			<name>Call of Harmony</name>
-			<text>Search your library for a green creature card and a white creature card, reveal them, put them into your hand, then shuffle.</text>
+			<text>Look at the top seven cards of your library. You may put a creature card from among them with mana value X or less onto the battlefield, where X is the number of creatures you control.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/190.png" num="228">ORE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>1GW</manacost>
 				<cmc>3</cmc>
 				<colors>WG</colors>
@@ -3393,7 +3391,7 @@ Other creatures with flying you control get +1/+1.</text>
 		</card>
 		<card>
 			<name>Hallowed Speaker</name>
-			<text>Whenever another nontoken creature you control enters, create a 1/1 colorless creature token. (It has no creature types.)
+			<text>Whenever another nontoken creature you control enters, create a 1/1 colorless creature token named Husk. (It has no creature types.)
 Whenever another nontoken creature you control dies, draw a card.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/196.png" num="235">ORE</set>
 			<prop>
@@ -3700,7 +3698,7 @@ Equip {2}</text>
 		<card>
 			<name>Bog of the Forgotten</name>
 			<text>{T}: Add {C}.
-{3}, {T}, Sacrifice Bog of the Forgotten: Create two 1/1 colorless creature tokens. Activate only as a sorcery. (They have no creature types.)</text>
+{3}, {T}, Sacrifice Bog of the Forgotten: Create two 1/1 colorless creature tokens named Husk. Activate only as a sorcery. (They have no creature types.)</text>
 			<set rarity="uncommon" picurl="https://SRandomName.github.io/sets/ORE-files/img/214.png" num="255">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3827,7 +3825,7 @@ Activated abilities of planeswalkers can&apos;t be activated.</text>
 			<name>Twisting Ridge</name>
 			<text>This land enters tapped.
 {T}: Add {U} or {R}.
-{2}{U}{R}, {T}, Exile an instant or sorcery card from your graveyard: Create a tapped 2/2 red Weird creature token.</text>
+{2}{U}{R}, {T}, Exile two instant and/or sorcery cards from your graveyard: Create a tapped 2/2 red Weird creature token.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/222.png" num="258">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3943,7 +3941,7 @@ When this creature enters, put a +1/+1 counter on each of up to two target creat
 		<card>
 			<name>Champion of Resolve</name>
 			<text>Lifelink
-When this creature enters, you lose 1 life for each card om your hand, then you follow the path. (At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)</text>
+When this creature enters, you lose 1 life for each card in your hand, then you follow the path. (At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/229.png" num="99">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3977,7 +3975,7 @@ When this creature enters, you lose 1 life for each card om your hand, then you 
 		</card>
 		<card>
 			<name>Courier of Vision</name>
-			<text>Whenever you cast your second instant or sorcery spell this turn, you follow the path. (At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)
+			<text>Whenever you cast your second instant or sorcery spell each turn, you follow the path. (At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)
 This creature has flying as long as you follow the path.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/231.png" num="57">ORE</set>
 			<prop>
@@ -4049,7 +4047,7 @@ When this creature dies, shuffle it into its owner&apos;s library.</text>
 		</card>
 		<card>
 			<name>Left in Dismay</name>
-			<text>Exile target creature. Its controller creates a 1/1 colorless creature token. (It has no creature types.)</text>
+			<text>Exile target creature. Its controller creates a 1/1 colorless creature token named Husk. (It has no creature types.)</text>
 			<set rarity="uncommon" picurl="https://SRandomName.github.io/sets/ORE-files/img/235.png" num="31">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4104,7 +4102,7 @@ At the beginning of combat on your turn, you may discard a card. If you do, add 
 			<name>Mantra of Vision</name>
 			<text>At the beginning of your upkeep, choose one —
 • Draw a card.
-• Copy the next instant or sorcery spell you cast this turn, you may choose new targets for the copy.</text>
+• When you cast your next instant or sorcery spell this turn, copy it. You may choose new targets for the copy.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/238.png" num="69">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4384,8 +4382,8 @@ Whenever a nontoken creature you control dies, create a 1/1 green Saproling crea
 			<name>Fateweaver</name>
 			<text>(This creature has no creature types.)
 {1}{WB}: This creature becomes white and black and its base power and toughness become 3/3.
-{2}{W}{B}: If this creature is white it becomes a Cleric with lifelink and base power and toughness 5/5.
-{2}{W}{W}{B}{B}: If this creature is a Cleric put three +1/+1 counters on it. Whenever you gain life this turn, each opponent loses that much life.</text>
+{2}{W}{B}: If this creature is white, it becomes a Cleric with lifelink and base power and toughness 5/5.
+{2}{W}{W}{B}{B}: If this creature is a Cleric, put three +1/+1 counters on it. Whenever you gain life this turn, each opponent loses that much life.</text>
 			<set rarity="mythic" picurl="https://SRandomName.github.io/sets/ORE-files/img/255.png" num="2">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4438,7 +4436,7 @@ When a player has 5 or less life, they lose the game.</text>
 		<card>
 			<name>Presence of Perplexity</name>
 			<text>Ward {3}
-If you would draw one or more cards, instead put the cards in your hand on the bottom of your library in any order, then draw cards equal to the number of cards you put on the bottom plus the number of cards you would draw.</text>
+If you would draw one or more cards, instead put the cards in your hand on the bottom of your library in a random order, then draw cards equal to the number of cards you put on the bottom plus the number of cards you would draw.</text>
 			<set rarity="mythic" picurl="https://SRandomName.github.io/sets/ORE-files/img/258.png" num="78">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4510,7 +4508,7 @@ Martyr 5 (When this creature dies, you may exile it to return a creature with ma
 		<card>
 			<name>Oddity of Obsession</name>
 			<text>Flying
-Whenever a player casts a spell from their hand, exile it. During its controller next upkeep that player may cast that spell without paying its mana cost.</text>
+Whenever a player casts a spell from their hand, exile it. During its controller&apos;s next upkeep that player may cast that spell without paying its mana cost.</text>
 			<set rarity="mythic" picurl="https://SRandomName.github.io/sets/ORE-files/img/262.png" num="34">ORE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4564,15 +4562,15 @@ Examine. (Exile the top card of your library. You may play it while exiled by pa
 		<card>
 			<name>Shard of the Future</name>
 			<text>When this artifact enters, you follow the path. (At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)
-{2}, {T}: You may cast spells this turn as though they had flash.</text>
+{1}, {T}: You may cast spells this turn as though they had flash.</text>
 			<set rarity="rare" picurl="https://SRandomName.github.io/sets/ORE-files/img/265.png" num="252">ORE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>3</manacost>
-				<cmc>3</cmc>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
