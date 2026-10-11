@@ -1,4 +1,475 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+The Path added.
+
+Follow the Path removed.
+
+Dedicated Insurgent
+cost: {W} => {1}{W}
+rules_text: Martyr 1 [i](When this creature dies, you may exile it to return a creature with mana value 1 or less from your graveyard to your hand.)[/i] => Martyr 2 [i](When this creature dies, you may exile it to return a creature with mana value 2 or less from your graveyard to your hand.)[/i]
+pt: 2/1 => 3/1
+
+Forbiddance
+type: Instant => Sorcery
+rules_text: Counter target noncreature spell unless its controller pays {2}. If that spell is countered this way, its owner puts it on the top or the bottom of their library instead of into their graveyard. => Look at target opponent's hand. You may exile a noncreature, nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {1} more to cast.
+Draw a card.
+
+Mantra of Unity
+rules_text: At the beginning of your upkeep, choose one —
+• Create a 1/1 white Soldier creature token.
+• Creatures you control get +1/+1 until end of turn. => At the beginning of combat on your turn, choose one —
+• The next time a creature you control enters this turn, draw a card.
+• Creatures you control get +1/+1 until end of turn.
+
+Magisterial Sphinx
+rules_text: Flying
+When this creature enters, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i] => Flying
+When this creature enters, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+
+Library Sentry
+rules_text: Vigilance
+When this creature enters, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i] => Vigilance
+When this creature enters, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+
+Neverfolk Stargazer
+rules_text: When this creature enters, examine twice. [i](To examine, exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+The first spell you cast from exile each turn costs {2} less to cast. => When this creature enters, examine twice. [i](To examine, exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+The first spell you cast from exile each turn costs {2} less to cast.
+
+Pensive, the Introspective
+rules_text: Whenever you cast an instant or sorcery spell from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy. => Whenever you cast an instant or sorcery spell from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy. This ability triggers only once each turn.
+
+Vision
+rules_text: When this creature enters, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i]
+Whenever you cast a spell during an opponent's turn, draw a card if you follow the path.
+When this creature dies, shuffle it into its owner's library. => When this creature enters, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+This creature can't be blocked as long as you follow the path.
+When this creature dies, shuffle it into its owner's library.
+pt: 3/5 => 4/4
+
+Clandestine Thaumaturge
+rules_text: When this creature enters, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i]
+At the beginning of your upkeep, if you follow the path, each opponent loses 2 life and you gain 2 life. => When this creature enters, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+At the beginning of your upkeep, if you follow the path, each opponent loses 2 life and you gain 2 life.
+
+Shadowcaller
+rules_text: Menace
+Exile four cards from your graveyard: You follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i] => Menace
+Exile four cards from your graveyard: You follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+
+Resolve
+rules_text: When this creature enters, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i]
+At the beginning of each opponent's upkeep, if you follow the path, that player sacrifices a creature and discards a card.
+When this creature dies, shuffle it into its owner's library. => When this creature enters, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+At the beginning of each opponent's upkeep, if you follow the path, that player sacrifices a creature and discards a card.
+When this creature dies, shuffle it into its owner's library.
+
+Shadowsire
+rules_text: Lifelink
+When this creature enters, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i] => Lifelink
+When this creature enters, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+
+Thoughtspill
+
+Tortured Husk
+
+Vicious Disfigurement
+
+The Nomad's Strike
+
+The Grand Forsaker
+
+Sulking Magus
+
+Strength of Resolve
+
+Steadfast Swordsman
+
+Afflatus
+
+Aether Phoenix
+
+Augur Patrol
+
+Blood Seer
+
+Claim of the Aether
+
+Contemplate Chaos
+
+Crimson Scourge
+
+Drape in Blood
+
+Entropic Blast
+
+Entropic Creation
+
+Entropic Visionary
+
+Erratic Spellweaver
+
+Fiery Oracle
+rules_text: At the beginning of your end step, if you have one or fewer cards in your hand, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i] => At the beginning of your end step, if you have one or fewer cards in your hand, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+
+Fracture
+
+Frontier Observer
+
+Seer's Charge
+
+Overwhelm
+
+Mantra of Possibility
+rules_text: At the beginning of your upkeep, choose one —
+• Add {R}{R}. Until end of turn you don't lose this mana as steps and phases end.
+• Discard your hand, then draw two cards. => At the beginning of your first main phase, choose one —
+• Add {R}{R}.
+• Discard your hand, then draw two cards.
+
+Meandering Shrieker
+
+Possibility
+rules_text: When this creature enters, discard your hand, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i]
+At the beginning of your upkeep, if you follow the path, this creature deals 3 damage to any target.
+When this creature dies, shuffle it into its owner's library. => When this creature enters, discard your hand, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+At the beginning of your upkeep, if you follow the path, this creature deals 3 damage to any target.
+When this creature dies, shuffle it into its owner's library.
+
+Prophetic Hunter
+
+Ruthless Hunter
+
+Scrutinize
+
+Searing Breath
+
+Sedition
+
+Seek the Aether
+rules_text: Discard your hand, then examine seven times. [i](To examine, exile the top card of your library. You may play it by paying an additional {2}.)[/i] => Discard your hand, then examine seven times. [i](To examine, exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Petitioner of the Past
+
+Seer Attendant
+
+Seer Swiftblade
+
+Seize Opportunities
+
+Sentinel Seer
+
+Single Out
+
+Search the Grimoires
+
+Unravel the Strings
+rules_text: Create two 1/1 red Wizard creature tokens.
+Discard a card. You follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i] => Create two 1/1 red Wizard creature tokens.
+Discard a card. You follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+
+Unrelenting Charge
+
+Volatile Behavior
+
+Wandering Zealot
+
+Virulent Shower
+
+Aimless Wanderer
+
+Unbridled Creation
+rules_text: At the beginning of your upkeep, examine. [i](To examine, exile the top card of your library. You may play it by paying an additional {2}.)[/i]
+Creature spells you cast cost {1} less to cast for each examined card you own. => At the beginning of your upkeep, examine. [i](To examine, exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+Creature spells you cast cost {1} less to cast for each examined card you own.
+
+Blessed by Nature
+
+Blight Maw
+
+Blooming Sprite
+
+Blossom
+
+Guardian of Harmony
+
+Burgeoning Harbinger
+
+Curious Remembrance
+
+Curious Wanderer
+
+Feast
+
+Fountain of Wisdom
+
+Frolicking Neverfolk
+
+Harmonic Scholar
+
+Harmony
+rules_text: When this creature enters, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i]
+At the beginning of each upkeep, if you follow the path, create a 1/1 green Saproling creature token.
+When this creature dies, shuffle it into its owner's library. => When this creature enters, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+At the beginning of each upkeep, if you follow the path, create a 1/1 green Saproling creature token.
+When this creature dies, shuffle it into its owner's library.
+
+Immense Irregularity
+
+Imposing Stature
+
+Lost Savior
+
+Mantra of Harmony
+
+Neverfolk Hermit
+
+Nourish, the Revitalized
+
+Potence, Wild Preacher
+
+Primal Regent
+pt: 7/6 => 8/7
+
+Ravager
+
+Percipience
+
+Roaming Husk
+
+Safekeeper
+
+Solitary Sprite
+
+Sprouting Burst
+
+Stalking Husk
+
+Staunch Huntsman
+
+Terrifying Presence
+
+Thirsting Neverfolk
+
+Towering Sovereign
+
+Tracker's Expertise
+
+Turn to Soil
+
+Unforgiving Predacity
+
+Voracious Grasp
+
+Insatiable Husk
+
+Yellow Visionary
+
+Blazing Vanguard
+
+Call of Harmony
+rules_text: Look at the top seven cards of your library. You may put a creature card from among them with mana value X or less onto the battlefield, where X is the number of creatures you control. => Look at the top seven cards of your library. You may put a creature card from among them with mana value X or less onto the battlefield, where X is the number of creatures you control. Put the rest on the bottom of your library in a random order.
+
+Chaos Weaver
+
+Disarray, the Opposer
+
+Festering Druid
+
+Fiery Inquisitor
+
+Gliding Watcher
+
+Hallowed Speaker
+
+Impassioned Oracle
+
+Insurgent Commander
+
+Merciless Thaumaturge
+rules_text: Menace
+Whenever this creature deals combat damage to an opponent, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i] => Menace
+Whenever this creature deals combat damage to an opponent, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+
+Pitiful End
+
+Preacher of Unity
+
+Soothing Oracle
+
+Reverie, the Dreamshaper
+
+Vehement Neverfolk
+
+War Seers
+
+Warped Seer
+
+World Scholar
+
+Celestial Compass
+
+Hallowed Halberd
+
+Locked Sigil
+rules_text: {T}, Add one mana of any color.
+{5}, {T}, Sacrifice this artifact: You follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i] => {T}, Add one mana of any color.
+{5}, {T}, Sacrifice this artifact: You follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+
+Righteous Edge
+
+Tome of Memories
+
+Abyssal Wastes
+
+Bog of the Forgotten
+
+Desolate Battleground
+
+Forgotten Deity
+
+Forsaken Champion
+
+Husk Brute
+
+Husk Piker
+
+Terramorphic Expanse
+
+The Sparkless
+
+Twisting Ridge
+
+Unraveling Edge
+
+Vacant Seer
+
+Wretched Woods
+
+Herald of Unity
+
+Teachings of the Forgotten
+rules_text: Examine three times. [i](To examine, exile the top card of your library. You may play it by paying an additional {2}.)[/i] => Examine three times. [i](To examine, exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Gaze Upon the Ensuing
+
+Champion of Resolve
+rules_text: Lifelink
+When this creature enters, you lose 1 life for each card in your hand, then you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i] => Lifelink
+When this creature enters, you lose 1 life for each card in your hand, then you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+
+Perturbing Reflection
+
+Courier of Vision
+rules_text: Whenever you cast your second instant or sorcery spell each turn, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i]
+This creature has flying as long as you follow the path. => Whenever you cast your second instant or sorcery spell each turn, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+This creature has flying as long as you follow the path.
+
+Ignite, the Spontaneous
+rules_text: Haste
+Whenever this creature deals combat damage to an opponent, examine. That card costs {2} less to cast this turn. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i] => Haste
+Whenever this creature deals combat damage to an opponent with more cards in hand than you, examine. That card costs {2} less to cast this turn. [i](Exile the top card of your library. You may play it while exiled by paying an additional {2}.)[/i]
+
+Stalking Spawn
+
+Unity
+rules_text: When this creature enters, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i]
+Creatures you control get +1/+1 as long as you follow the path.
+When this creature dies, shuffle it into its owner's library. => When this creature enters, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+Creatures you control get +1/+1 as long as you follow the path.
+When this creature dies, shuffle it into its owner's library.
+
+Left in Dismay
+
+Beheaded, the Nomad
+rules_text: Beheaded is a 3/3 Warrior creature with indestructible and haste as long as you've activated one of his loyalty abilities this turn. [i](He doesn't die for having 0 loyalty while he's a creature.)[/i]
+[+1]: Up to one target creature can't block this turn.
+[-3]: Each opponent sacrifices a creature. => Beheaded is a 3/3 Warrior creature with indestructible and haste as long as you've activated one of his loyalty abilities this turn. [i](He doesn't die for having 0 loyalty while he's a creature.)[/i]
+[+1]: Up to one target creature can't block Beheaded this turn.
+[-3]: Each opponent sacrifices a creature.
+special_text: Beheaded is a 3/3 Warrior creature with indestructible and haste as long as you've activated one of his loyalty abilities this turn. [i](He doesn't die for having 0 loyalty while he's a creature.)[/i]
+[+1]: Up to one target creature can't block this turn.
+[-3]: Each opponent sacrifices a creature. => Beheaded is a 3/3 Warrior creature with indestructible and haste as long as you've activated one of his loyalty abilities this turn. [i](He doesn't die for having 0 loyalty while he's a creature.)[/i]
+[+1]: Up to one target creature can't block Beheaded this turn.
+[-3]: Each opponent sacrifices a creature.
+
+Reckoning, Crimson Prophet
+
+Mantra of Vision
+
+Dog
+
+Wizard
+
+Husk
+
+Soldier
+
+Saproling
+
+Weird
+
+Examine
+
+Roads Untravelled
+
+Dreamwatcher
+
+Enduring Vigor
+
+Fateweaver
+
+Paragon of Parity
+
+Subject of Suffering
+
+Presence of Perplexity
+
+Herald of Havoc
+
+Returning from Victory
+
+Towering Defector
+
+Oddity of Obsession
+
+Zestless
+
+Glimpse at a New World
+
+Shard of the Future
+cost: {4} => {6}
+rules_text: When this artifact enters, you follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i]
+{1}, {T}: You may cast spells this turn as though they had flash. => When this artifact enters, you follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+You may cast spells as though they had flash.
+
+Shattered Identity
+
+Dreadful Diviner
+
+Acolyte of the Path
+rules_text: Whenever this creature attacks, if you follow the path, target creature can't block this turn.
+Discard two cards: You follow the path. [i](At the beginning of your upkeep, draw a card. Whenever you cast a spell during your turn, you stop following the path.)[/i] => Whenever this creature attacks, if you follow the path, target creature can't block this turn.
+Discard two cards: You follow the path. [i](The Path is a legendary enchantment token with “At the beginning of your upkeep, draw a card.” and “Whenever you cast a spell during your turn, sacrifice this enchantment.”)[/i]
+
+Font of Fecundity
+
+Conveyance, Voice of Aether
+
+Expendable Husk
+
+Compassion
+
+Spite, the Relentless
+cost: {1}{B} => {B}
+rules_text: When this creature dies, if it didn't become a martyr, you lose 2 life.
+Martyr 1 [i](When this creature dies, you may exile it to return a creature with mana value 1 or less from your graveyard to your hand.)[/i] => When this creature dies, you lose 2 life.
+Martyr 1 [i](When this creature dies, you may exile it to return a creature with mana value 1 or less from your graveyard to your hand.)[/i]
+pt: 3/2 => 2/2
+
+
+VERSION 8 CHANGELOG
 ====================
 
 
