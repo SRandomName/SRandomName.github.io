@@ -1,4 +1,13 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Neverfolk Hermit
+pt: 0/1 => 0/2
+
+
+VERSION 10 CHANGELOG
 ====================
 
 No changes.

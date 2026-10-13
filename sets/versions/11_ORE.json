@@ -3524,7 +3524,7 @@
             "cost": "{G}",
             "rules_text": "{T}: Add {G}.",
             "flavor_text": "[i]Few neverfolk will understand their prime memory well enough to form a stable life around it.[/i]",
-            "pt": "0/1",
+            "pt": "0/2",
             "special_text": "",
             "shape": "normal",
             "set": "ORE",

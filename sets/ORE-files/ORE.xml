@@ -5,7 +5,7 @@
 			<name>ORE</name>
 			<longname>Orestan</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-11</releasedate>
+			<releasedate>2026-10-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2894,7 +2894,7 @@ When this creature enters, create a 1/1 colorless creature token named Husk. (It
 				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>0/1</pt>
+				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
